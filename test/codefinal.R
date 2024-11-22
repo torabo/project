@@ -493,3 +493,4 @@ colnames(table2) <- c("Suicidal ideation_Dep" ,"95%CI(LOW)","95%CI(HIGH)", "Suic
 
 write.csv(table2, "Table2bymara.csv")
 
+#202411.22
