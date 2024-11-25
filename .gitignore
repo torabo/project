@@ -6,3 +6,7 @@
 ._.Rhistory
 **/.Rhistory
 **/._.Rhistory
+.gitignore
+._.gitignore
+**/.gitignore
+**/._.gitignore
