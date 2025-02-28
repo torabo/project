@@ -1,0 +1,1289 @@
+team_id,no,pos,player,age_yrs,caps,goals,club,DOB,Year,Month,Day,country,group,WorldCup
+1,21,GK,Pauline Peyraud-Magnin,27,1,0,Arsenal,1992-03-17,1992,3,17,France,A,Women
+1,5,DF,Aissatou Tounkara,24,11,0,Atletico Madrid,1995-03-16,1995,3,16,France,A,Women
+1,18,FW,Viviane Asseyi,25,31,4,Bordeaux,1993-11-20,1993,11,20,France,A,Women
+1,15,MF,Elise Bussaglia,33,187,29,Dijon,1985-09-24,1985,9,24,France,A,Women
+1,23,MF,Maeva Clemaron,26,3,0,Fleury,1992-11-10,1992,11,10,France,A,Women
+1,1,GK,Solene Durand,24,0,0,Guingamp,1994-11-20,1994,11,20,France,A,Women
+1,12,FW,Emelyne Laurent,20,4,0,Guingamp,1998-11-04,1998,11,4,France,A,Women
+1,22,DF,Julie Debever,31,2,0,Guingamp,1988-04-18,1988,4,18,France,A,Women
+1,3,DF,Wendie Renard,28,109,20,Lyon,1990-07-20,1990,7,20,France,A,Women
+1,6,MF,Amandine Henry (captain),29,83,11,Lyon,1989-09-28,1989,9,28,France,A,Women
+1,9,FW,Eugenie Le Sommer,30,159,73,Lyon,1989-05-18,1989,5,18,France,A,Women
+1,10,DF,Amel Majri,26,46,4,Lyon,1993-01-25,1993,1,25,France,A,Women
+1,16,GK,Sarah Bouhaddi,32,140,0,Lyon,1986-10-17,1986,10,17,France,A,Women
+1,19,DF,Griedge Mbock Bathy,24,50,4,Lyon,1995-02-26,1995,2,26,France,A,Women
+1,20,FW,Delphine Cascarino,22,12,1,Lyon,1997-02-05,1997,2,5,France,A,Women
+1,4,DF,Marion Torrent,27,21,0,Montpellier,1992-04-17,1992,4,17,France,A,Women
+1,7,DF,Sakina Karchaoui,23,24,0,Montpellier,1996-01-26,1996,1,26,France,A,Women
+1,13,FW,Valerie Gauvin,23,18,10,Montpellier,1996-06-01,1996,6,1,France,A,Women
+1,14,MF,Charlotte Bilbault,29,15,0,Paris FC,1990-06-05,1990,6,5,France,A,Women
+1,17,MF,Gaetane Thiney,33,155,58,Paris FC,1985-10-28,1985,10,28,France,A,Women
+1,2,DF,Eve Perisset,24,14,0,Paris Saint-Germain,1994-12-24,1994,12,24,France,A,Women
+1,8,MF,Grace Geyoro,21,21,1,Paris Saint-Germain,1997-07-02,1997,7,2,France,A,Women
+1,11,FW,Kadidiatou Diani,24,46,5,Paris Saint-Germain,1995-04-01,1995,4,1,France,A,Women
+2,4,DF,Ngozi Ebere,27,20,1,Arna-Bjornar,1991-08-05,1991,8,5,Nigeria,A,Women
+2,15,FW,Rasheedat Ajibade,19,NA,NA,Avaldsnes,1999-12-08,1999,12,8,Nigeria,A,Women
+2,8,FW,Asisat Oshoala,24,17,11,Barcelona,1994-10-09,1994,10,9,Nigeria,A,Women
+2,21,GK,Alaba Jonathan,27,NA,NA,Bayelsa Queens,1992-06-01,1992,6,1,Nigeria,A,Women
+2,11,FW,Chinaza Uchendu,21,NA,NA,Braga,1997-12-03,1997,12,3,Nigeria,A,Women
+2,23,MF,Ogonna Chukwudi,30,20,3,Djurgarden,1988-09-14,1988,9,14,Nigeria,A,Women
+2,13,MF,Ngozi Okobi-Okeoghene,25,27,4,Eskilstuna United,1993-12-14,1993,12,14,Nigeria,A,Women
+2,18,MF,Halimatu Ayinde,24,12,0,Eskilstuna United,1995-05-16,1995,5,16,Nigeria,A,Women
+2,9,FW,Desire Oparanozie (captain),25,35,22,Guingamp,1993-12-17,1993,12,17,Nigeria,A,Women
+2,5,DF,Onome Ebi,36,81,0,Henan Huishang,1983-05-08,1983,5,8,Nigeria,A,Women
+2,19,FW,Chinwendu Ihezuo,22,NA,NA,Henan Huishang,1997-04-30,1997,4,30,Nigeria,A,Women
+2,10,MF,Rita Chikwelu,31,33,15,Kristianstads,1988-03-06,1988,3,6,Nigeria,A,Women
+2,2,MF,Amarachi Okoronkwo,26,NA,NA,Nasarawa Amazons,1992-12-12,1992,12,12,Nigeria,A,Women
+2,14,DF,Faith Michael,32,53,0,Pitea,1987-02-28,1987,2,28,Nigeria,A,Women
+2,1,GK,Tochukwu Oluehi,32,NA,NA,Rivers Angels,1987-05-02,1987,5,2,Nigeria,A,Women
+2,6,MF,Evelyn Nwabuoku,33,42,3,Rivers Angels,1985-11-14,1985,11,14,Nigeria,A,Women
+2,16,GK,Chiamaka Nnadozie,18,NA,NA,Rivers Angels,2000-12-08,2000,12,8,Nigeria,A,Women
+2,22,FW,Alice Ogebe,24,7,0,Rivers Angels,1995-03-30,1995,3,30,Nigeria,A,Women
+2,20,DF,Chidinma Okeke,18,NA,NA,Robo Queens,2000-08-11,2000,8,11,Nigeria,A,Women
+2,7,FW,Anam Imo,18,NA,NA,Rosengard,2000-11-30,2000,11,30,Nigeria,A,Women
+2,17,FW,Francisca Ordega,25,26,7,Shanghai,1993-10-19,1993,10,19,Nigeria,A,Women
+2,12,FW,Uchenna Kanu,21,1,0,Southeastern Fire,1997-06-27,1997,6,27,Nigeria,A,Women
+2,3,DF,Osinachi Ohale,27,26,1,Vaxjo,1991-12-21,1991,12,21,Nigeria,A,Women
+3,22,FW,Emilie Nautnes,20,6,1,Arna-Bjornar,1999-01-13,1999,1,13,Norway,A,Women
+3,23,GK,Oda Maria Hove Bogstad,23,0,0,Arna-Bjornar,1996-04-24,1996,4,24,Norway,A,Women
+3,3,DF,Maria Thorisdottir,26,32,1,Chelsea,1993-06-05,1993,6,5,Norway,A,Women
+3,6,DF,Maren Mjelde (captain),29,136,19,Chelsea,1989-11-06,1989,11,6,Norway,A,Women
+3,9,FW,Isabell Herlovsen,30,126,60,Kolbotn,1988-06-23,1988,6,23,Norway,A,Women
+3,21,MF,Karina Saevik,23,4,1,Kolbotn,1996-03-24,1996,3,24,Norway,A,Women
+3,8,MF,Vilde Boe Risa,23,19,2,Kopparbergs/Goteborg,1995-07-13,1995,7,13,Norway,A,Women
+3,18,MF,Frida Maanum,19,20,0,Linkoping,1999-07-16,1999,7,16,Norway,A,Women
+3,2,DF,Ingrid Moe Wold,29,60,3,LSK Kvinner,1990-01-29,1990,1,29,Norway,A,Women
+3,5,MF,Synne Skinnes Hansen,23,14,0,LSK Kvinner,1995-08-12,1995,8,12,Norway,A,Women
+3,7,FW,Elise Thorsnes,30,116,19,LSK Kvinner,1988-08-14,1988,8,14,Norway,A,Women
+3,12,GK,Cecilie Fiskerstrand,23,21,0,LSK Kvinner,1996-03-20,1996,3,20,Norway,A,Women
+3,13,FW,Therese Asland,23,6,1,LSK Kvinner,1995-08-26,1995,8,26,Norway,A,Women
+3,14,MF,Ingrid Syrstad Engen,21,16,2,LSK Kvinner,1998-04-29,1998,4,29,Norway,A,Women
+3,16,MF,Guro Reiten,24,37,5,LSK Kvinner,1994-07-26,1994,7,26,Norway,A,Women
+3,20,FW,Emilie Haavi,26,82,16,LSK Kvinner,1992-06-16,1992,6,16,Norway,A,Women
+3,11,FW,Lisa-Marie Karlseng Utland,26,41,14,Rosengard,1992-09-19,1992,9,19,Norway,A,Women
+3,4,DF,Stine Hovland,28,7,0,Sandviken,1991-01-31,1991,1,31,Norway,A,Women
+3,15,FW,Amalie Eikeland,23,6,0,Sandviken,1995-08-26,1995,8,26,Norway,A,Women
+3,19,DF,Cecilie Redisch Kvamme,23,3,0,Sandviken,1995-11-09,1995,11,9,Norway,A,Women
+3,1,GK,Ingrid Hjelmseth,39,132,0,Stabaek,1980-04-10,1980,4,10,Norway,A,Women
+3,10,MF,Caroline Graham Hansen,24,72,25,VfL Wolfsburg,1995-02-18,1995,2,18,Norway,A,Women
+3,17,MF,Kristine Minde,26,97,9,VfL Wolfsburg,1992-08-08,1992,8,8,Norway,A,Women
+4,22,FW,Son Hwa-yeon,22,20,7,Changnyeong,1997-03-15,1997,3,15,South Korea,A,Women
+4,10,FW,Ji So-yun,28,115,54,Chelsea,1991-02-21,1991,2,21,South Korea,A,Women
+4,1,GK,Kang Ga-ae,28,13,0,Gumi Sportstoto,1990-12-10,1990,12,10,South Korea,A,Women
+4,3,DF,Jeong Yeong-a,28,12,0,Gyeongju KHNP,1990-12-09,1990,12,9,South Korea,A,Women
+4,17,FW,Lee Geum-min,25,50,16,Gyeongju KHNP,1994-04-07,1994,4,7,South Korea,A,Women
+4,4,DF,Hwang Bo-ram,31,42,0,Hwacheon KSPO,1987-10-06,1987,10,6,South Korea,A,Women
+4,12,MF,Kang Yu-mi,27,25,8,Hwacheon KSPO,1991-10-05,1991,10,5,South Korea,A,Women
+4,21,GK,Jung Bo-ram,27,3,0,Hwacheon KSPO,1991-07-22,1991,7,22,South Korea,A,Women
+4,5,DF,Kim Do-yeon,30,79,1,Hyundai Steel Red Angels,1988-12-07,1988,12,7,South Korea,A,Women
+4,6,DF,Lim Seon-joo,28,76,5,Hyundai Steel Red Angels,1990-11-27,1990,11,27,South Korea,A,Women
+4,11,FW,Jung Seol-bin,29,74,21,Hyundai Steel Red Angels,1990-01-06,1990,1,6,South Korea,A,Women
+4,14,DF,Shin Dam-yeong,25,37,1,Hyundai Steel Red Angels,1993-10-02,1993,10,2,South Korea,A,Women
+4,15,MF,Lee Young-ju,27,28,2,Hyundai Steel Red Angels,1992-04-22,1992,4,22,South Korea,A,Women
+4,16,DF,Jang Sel-gi,25,54,11,Hyundai Steel Red Angels,1994-05-31,1994,5,31,South Korea,A,Women
+4,18,GK,Kim Min-jeong,22,2,0,Hyundai Steel Red Angels,1996-09-12,1996,9,12,South Korea,A,Women
+4,19,MF,Lee So-dam,24,49,5,Hyundai Steel Red Angels,1994-10-12,1994,10,12,South Korea,A,Women
+4,20,DF,Kim Hye-ri,28,80,1,Hyundai Steel Red Angels,1990-06-25,1990,6,25,South Korea,A,Women
+4,23,MF,Kang Chae-rim,21,1,0,Hyundai Steel Red Angels,1998-03-23,1998,3,23,South Korea,A,Women
+4,7,MF,Lee Min-a,27,56,14,INAC Kobe Leonessa,1991-11-08,1991,11,8,South Korea,A,Women
+4,2,DF,Lee Eun-mi,30,87,14,Suwon UDC,1988-08-18,1988,8,18,South Korea,A,Women
+4,9,MF,Moon Mi-ra,27,22,11,Suwon UDC,1992-02-28,1992,2,28,South Korea,A,Women
+4,13,FW,Yeo Min-ji,26,34,12,Suwon UDC,1993-04-27,1993,4,27,South Korea,A,Women
+4,8,MF,Cho So-hyun (captain),30,120,20,West Ham United,1988-06-24,1988,6,24,South Korea,A,Women
+5,1,GK,Xu Huan,20,1,0,Beijing Phoenix,1999-03-06,1999,3,6,China PR,B,Women
+5,2,DF,Liu Shanshan,27,110,1,Beijing Phoenix,1992-03-16,1992,3,16,China PR,B,Women
+5,13,MF,Wang Yan,27,28,0,Beijing Phoenix,1991-08-22,1991,8,22,China PR,B,Women
+5,17,MF,Gu Yasha,28,117,13,Beijing Phoenix,1990-11-28,1990,11,28,China PR,B,Women
+5,20,MF,Zhang Rui,30,145,24,Changchun Zhuoyue,1989-01-17,1989,1,17,China PR,B,Women
+5,11,FW,Wang Shanshan,29,132,46,Dalian Quanjian,1990-01-27,1990,1,27,China PR,B,Women
+5,15,FW,Song Duan,23,23,7,Dalian Quanjian,1995-08-02,1995,8,2,China PR,B,Women
+5,16,MF,Li Wen,30,32,3,Dalian Quanjian,1989-02-21,1989,2,21,China PR,B,Women
+5,18,GK,Bi Xiaolin,29,35,0,Dalian Quanjian,1989-09-18,1989,9,18,China PR,B,Women
+5,6,DF,Han Peng,29,93,4,Guangdong Huijun,1989-12-20,1989,12,20,China PR,B,Women
+5,10,FW,Li Ying,26,108,26,Guangdong Huijun,1993-01-07,1993,1,7,China PR,B,Women
+5,19,MF,Tan Ruyin,24,52,1,Guangdong Huijun,1994-07-17,1994,7,17,China PR,B,Women
+5,22,DF,Luo Guiping,26,1,0,Guangdong Huijun,1993-04-20,1993,4,20,China PR,B,Women
+5,4,MF,Lou Jiahui,28,112,4,Henan Huishang,1991-05-26,1991,5,26,China PR,B,Women
+5,9,FW,Yang Li,26,59,31,Jiangsu Suning,1993-02-26,1993,2,26,China PR,B,Women
+5,12,GK,Peng Shimeng,21,15,0,Jiangsu Suning,1998-05-12,1998,5,12,China PR,B,Women
+5,7,MF,Wang Shuang,24,96,26,Paris Saint-Germain,1995-01-23,1995,1,23,China PR,B,Women
+5,8,DF,Li Jiayue,28,67,1,Shanghai,1990-06-08,1990,6,8,China PR,B,Women
+5,3,DF,Lin Yuping,27,13,0,Wuhan Jianghan University,1992-02-28,1992,2,28,China PR,B,Women
+5,5,DF,Wu Haiyan (captain),26,114,0,Wuhan Jianghan University,1993-02-26,1993,2,26,China PR,B,Women
+5,14,DF,Wang Ying,21,4,0,Wuhan Jianghan University,1997-11-18,1997,11,18,China PR,B,Women
+5,21,MF,Yao Wei,21,14,3,Wuhan Jianghan University,1997-09-01,1997,9,1,China PR,B,Women
+5,23,MF,Liu Yanqiu,23,2,0,Wuhan Jianghan University,1995-12-31,1995,12,31,China PR,B,Women
+6,3,DF,Kathrin Hendrich,27,29,4,Bayern Munich,1992-04-06,1992,4,6,Germany,B,Women
+6,4,DF,Leonie Maier,26,69,10,Bayern Munich,1992-09-29,1992,9,29,Germany,B,Women
+6,12,GK,Laura Benkarth,26,8,0,Bayern Munich,1992-10-14,1992,10,14,Germany,B,Women
+6,13,MF,Sara Dabritz,24,60,10,Bayern Munich,1995-02-15,1995,2,15,Germany,B,Women
+6,17,MF,Verena Schweers,30,44,3,Bayern Munich,1989-05-22,1989,5,22,Germany,B,Women
+6,18,FW,Melanie Leupolz,25,58,8,Bayern Munich,1994-04-14,1994,4,14,Germany,B,Women
+6,20,FW,Lina Magull,24,31,7,Bayern Munich,1994-08-15,1994,8,15,Germany,B,Women
+6,2,DF,Carolin Simon,26,15,3,Lyon,1992-11-24,1992,11,24,Germany,B,Women
+6,10,MF,Dzsenifer Marozsan,27,90,32,Lyon,1992-04-18,1992,4,18,Germany,B,Women
+6,15,DF,Giulia Gwinn,19,8,1,SC Freiburg,1999-07-02,1999,7,2,Germany,B,Women
+6,19,FW,Klara Buhl,18,2,0,SC Freiburg,2000-12-07,2000,12,7,Germany,B,Women
+6,21,GK,Merle Frohms,24,4,0,SC Freiburg,1995-01-28,1995,1,28,Germany,B,Women
+6,5,DF,Marina Hegering,29,3,0,SGS Essen,1990-04-17,1990,4,17,Germany,B,Women
+6,6,MF,Lena Oberdorf,17,3,0,SGS Essen,2001-12-19,2001,12,19,Germany,B,Women
+6,7,MF,Lea Schuller,21,13,8,SGS Essen,1997-11-12,1997,11,12,Germany,B,Women
+6,16,MF,Linda Dallmann,24,21,5,SGS Essen,1994-09-02,1994,9,2,Germany,B,Women
+6,22,FW,Turid Knaak,28,8,1,SGS Essen,1991-01-24,1991,1,24,Germany,B,Women
+6,9,MF,Svenja Huth,28,44,7,Turbine Potsdam,1991-01-25,1991,1,25,Germany,B,Women
+6,14,DF,Johanna Elsig,26,12,0,Turbine Potsdam,1992-11-01,1992,11,1,Germany,B,Women
+6,1,GK,Almuth Schult,28,59,0,VfL Wolfsburg,1991-02-09,1991,2,9,Germany,B,Women
+6,8,MF,Lena Goessling,33,105,10,VfL Wolfsburg,1986-03-08,1986,3,8,Germany,B,Women
+6,11,MF,Alexandra Popp (captain),28,96,46,VfL Wolfsburg,1991-04-06,1991,4,6,Germany,B,Women
+6,23,DF,Sara Doorsoun,27,25,0,VfL Wolfsburg,1991-11-17,1991,11,17,Germany,B,Women
+7,10,MF,Linda Motlhalo,20,43,9,Beijing Phoenix,1998-07-01,1998,7,1,South Africa,B,Women
+7,11,FW,Thembi Kgatlana,23,53,7,Beijing Phoenix,1996-05-02,1996,5,2,South Africa,B,Women
+7,13,DF,Bambanani Mbane,29,44,0,Bloemfontein Celtic,1990-03-12,1990,3,12,South Africa,B,Women
+7,3,DF,Nothando Vilakazi,30,130,6,Gintra Universitetas,1988-10-28,1988,10,28,South Africa,B,Women
+7,12,FW,Jermaine Seoposenwe,25,74,6,Gintra Universitetas,1993-10-12,1993,10,12,South Africa,B,Women
+7,20,GK,Kaylin Swart,24,18,0,Golden Stars,1994-09-30,1994,9,30,South Africa,B,Women
+7,5,DF,Janine van Wyk (captain),32,166,11,JVW,1987-04-17,1987,4,17,South Africa,B,Women
+7,6,MF,Mamello Makhabane,31,96,18,JVW,1988-02-24,1988,2,24,South Africa,B,Women
+7,2,DF,Lebogang Ramalepe,27,63,1,MaIndies,1991-12-03,1991,12,3,South Africa,B,Women
+7,4,DF,Noko Matlou,33,153,61,MaIndies,1985-09-30,1985,9,30,South Africa,B,Women
+7,8,FW,Ode Fulutudilu,29,12,1,Malaga,1990-02-06,1990,2,6,South Africa,B,Women
+7,7,MF,Karabo Dhlamini,17,5,0,Mamelodi Sundowns,2001-09-18,2001,9,18,South Africa,B,Women
+7,14,DF,Tiisetso Makhubela,22,2,0,Mamelodi Sundowns,1997-04-24,1997,4,24,South Africa,B,Women
+7,16,GK,Andile Dlamini,26,38,0,Mamelodi Sundowns,1992-09-02,1992,9,2,South Africa,B,Women
+7,23,MF,Sibulele Holweni,18,2,0,Sophakama Ladies/HPC,2001-04-28,2001,4,28,South Africa,B,Women
+7,21,MF,Busisiwe Ndimeni,27,27,0,Tshwane University of Technology,1991-06-25,1991,6,25,South Africa,B,Women
+7,15,MF,Refiloe Jane,26,105,12,Unattached,1992-08-04,1992,8,4,South Africa,B,Women
+7,22,FW,Rhoda Mulaudzi,29,23,0,Unattached,1989-12-02,1989,12,2,South Africa,B,Women
+7,9,FW,Amanda Mthandi,23,10,2,University of Johannesburg,1996-05-23,1996,5,23,South Africa,B,Women
+7,19,MF,Kholosa Biyana,25,18,1,University of KwaZulu-Natal,1994-04-16,1994,4,16,South Africa,B,Women
+7,1,GK,Mapaseka Mpuru,21,0,0,University of Pretoria,1998-04-09,1998,4,9,South Africa,B,Women
+7,18,DF,Bongeka Gamede,20,1,0,University of the Western Cape,1999-05-22,1999,5,22,South Africa,B,Women
+7,17,MF,Leandra Smeda,29,95,10,Vittsjo,1989-07-22,1989,7,22,South Africa,B,Women
+8,17,FW,Lucia Garcia,20,14,0,Athletic Bilbao,1998-07-14,1998,7,14,Spain,B,Women
+8,1,GK,Lola Gallardo,25,29,0,Atletico Madrid,1993-06-10,1993,6,10,Spain,B,Women
+8,10,FW,Jennifer Hermoso,29,67,28,Atletico Madrid,1990-05-09,1990,5,9,Spain,B,Women
+8,15,MF,Silvia Meseguer,30,65,5,Atletico Madrid,1989-03-12,1989,3,12,Spain,B,Women
+8,19,MF,Amanda Sampedro,25,46,11,Atletico Madrid,1993-06-26,1993,6,26,Spain,B,Women
+8,21,MF,Andrea Falcon,22,7,1,Atletico Madrid,1997-02-28,1997,2,28,Spain,B,Women
+8,3,DF,Leila Ouahabi,26,27,1,Barcelona,1993-03-22,1993,3,22,Spain,B,Women
+8,6,MF,Vicky Losada,28,62,13,Barcelona,1991-03-05,1991,3,5,Spain,B,Women
+8,8,DF,Marta Torrejon (captain),29,86,9,Barcelona,1990-02-27,1990,2,27,Spain,B,Women
+8,9,FW,Mariona Caldentey,23,21,2,Barcelona,1996-03-19,1996,3,19,Spain,B,Women
+8,11,MF,Alexia Putellas,25,66,13,Barcelona,1994-02-04,1994,2,4,Spain,B,Women
+8,12,MF,Patricia Guijarro,21,17,3,Barcelona,1998-05-17,1998,5,17,Spain,B,Women
+8,13,GK,Sandra Panos,26,29,0,Barcelona,1992-11-04,1992,11,4,Spain,B,Women
+8,16,DF,Maria Pilar Leon,23,24,0,Barcelona,1995-06-13,1995,6,13,Spain,B,Women
+8,18,MF,Aitana Bonmati,21,13,1,Barcelona,1998-01-18,1998,1,18,Spain,B,Women
+8,20,DF,Andrea Pereira,25,26,0,Barcelona,1993-09-19,1993,9,19,Spain,B,Women
+8,5,DF,Ivana Andres,24,21,0,Levante,1994-07-13,1994,7,13,Spain,B,Women
+8,7,MF,Marta Corredera,27,67,5,Levante,1991-08-08,1991,8,8,Spain,B,Women
+8,14,MF,Virginia Torrecilla,24,54,6,Montpellier,1994-09-04,1994,9,4,Spain,B,Women
+8,4,DF,Irene Paredes,27,62,8,Paris Saint-Germain,1991-07-04,1991,7,4,Spain,B,Women
+8,22,FW,Nahikari Garcia,22,8,1,Real Sociedad,1997-03-10,1997,3,10,Spain,B,Women
+8,23,GK,Maria Asuncion Quinones,22,3,0,Real Sociedad,1996-10-29,1996,10,29,Spain,B,Women
+8,2,DF,Celia Jimenez,23,22,0,Reign FC,1995-06-20,1995,6,20,Spain,B,Women
+9,17,FW,Mary Fowler,16,4,0,Bankstown City,2003-02-14,2003,2,14,Australia,C,Women
+9,18,GK,Mackenzie Arnold,25,23,0,Brisbane Roar,1994-02-25,1994,2,25,Australia,C,Women
+9,19,MF,Katrina Gorry,26,74,14,Brisbane Roar,1992-08-13,1992,8,13,Australia,C,Women
+9,5,DF,Karly Roestbakken,18,0,0,Canberra United,2001-01-17,2001,1,17,Australia,C,Women
+9,20,FW,Sam Kerr (captain),25,77,31,Chicago Red Stars,1993-09-10,1993,9,10,Australia,C,Women
+9,4,DF,Clare Polkinghorne,30,117,9,Houston Dash,1989-02-01,1989,2,1,Australia,C,Women
+9,13,MF,Tameka Yallop,27,79,10,Klepp,1991-06-16,1991,6,16,Australia,C,Women
+9,3,MF,Aivi Luik,34,21,0,Levante,1985-03-18,1985,3,18,Australia,C,Women
+9,15,FW,Emily Gielnik,27,29,7,Melbourne Victory,1992-05-13,1992,5,13,Australia,C,Women
+9,23,DF,Teigen Allen,25,40,0,Melbourne Victory,1994-02-12,1994,2,12,Australia,C,Women
+9,2,DF,Gema Simon,28,11,0,Newcastle Jets,1990-07-19,1990,7,19,Australia,C,Women
+9,10,MF,Emily van Egmond,25,86,18,Orlando Pride,1993-07-12,1993,7,12,Australia,C,Women
+9,14,DF,Alanna Kennedy,24,78,7,Orlando Pride,1995-01-21,1995,1,21,Australia,C,Women
+9,9,FW,Caitlin Foord,24,72,16,Portland Thorns,1994-11-11,1994,11,11,Australia,C,Women
+9,16,FW,Hayley Raso,24,35,3,Portland Thorns,1994-09-05,1994,9,5,Australia,C,Women
+9,21,DF,Ellie Carpenter,19,32,1,Portland Thorns,2000-04-28,2000,4,28,Australia,C,Women
+9,1,GK,Lydia Williams,31,78,0,Reign FC,1988-05-13,1988,5,13,Australia,C,Women
+9,7,DF,Steph Catley,25,72,2,Reign FC,1994-01-26,1994,1,26,Australia,C,Women
+9,8,MF,Elise Kellond-Knight,28,106,1,Reign FC,1990-08-10,1990,8,10,Australia,C,Women
+9,11,FW,Lisa De Vanna,34,148,47,Sydney FC,1984-11-14,1984,11,14,Australia,C,Women
+9,12,GK,Teagan Micah,21,0,0,UCLA Bruins,1997-10-20,1997,10,20,Australia,C,Women
+9,6,MF,Chloe Logarzo,24,38,6,Washington Spirit,1994-12-22,1994,12,22,Australia,C,Women
+9,22,MF,Amy Harrison,23,10,0,Washington Spirit,1996-04-21,1996,4,21,Australia,C,Women
+10,19,FW,Ludmila,24,12,1,Atletico Madrid,1994-12-11,1994,12,11,Brazil,C,Women
+10,7,FW,Andressa Alves,26,82,18,Barcelona,1992-11-10,1992,11,10,Brazil,C,Women
+10,4,DF,Tayla,27,17,1,Benfica,1992-05-09,1992,5,9,Brazil,C,Women
+10,23,FW,Geyse,21,7,0,Benfica,1998-03-27,1998,3,27,Brazil,C,Women
+10,14,DF,Kathellen,23,4,0,Bordeaux,1996-04-26,1996,4,26,Brazil,C,Women
+10,21,DF,Monica,32,58,9,Corinthians,1987-04-21,1987,4,21,Brazil,C,Women
+10,22,GK,Leticia Izidoro,24,1,0,Corinthians,1994-08-13,1994,8,13,Brazil,C,Women
+10,17,MF,Andressinha,24,69,10,EC Iranduba da Amazonia,1995-05-01,1995,5,1,Brazil,C,Women
+10,6,DF,Tamires,31,90,4,Fortuna Hjorring,1987-10-10,1987,10,10,Brazil,C,Women
+10,12,GK,Aline,30,8,0,Granadilla,1989-04-15,1989,4,15,Brazil,C,Women
+10,18,MF,Luana,26,7,0,Hwacheon KSPO,1993-05-02,1993,5,2,Brazil,C,Women
+10,16,FW,Beatriz,25,68,22,Hyundai Steel Red Angels,1993-12-17,1993,12,17,Brazil,C,Women
+10,1,GK,Barbara,30,70,0,Kindermann,1988-07-04,1988,7,4,Brazil,C,Women
+10,5,MF,Thaisa,30,78,5,Milan,1988-12-17,1988,12,17,Brazil,C,Women
+10,9,FW,Debinha,27,81,28,North Carolina Courage,1991-10-20,1991,10,20,Brazil,C,Women
+10,10,FW,Marta (captain),33,144,105,Orlando Pride,1986-02-19,1986,2,19,Brazil,C,Women
+10,15,DF,Camila,24,17,2,Orlando Pride,1994-10-10,1994,10,10,Brazil,C,Women
+10,3,DF,Daiane,21,4,0,Paris Saint-Germain,1997-09-07,1997,9,7,Brazil,C,Women
+10,8,MF,Formiga,41,186,26,Paris Saint-Germain,1978-03-03,1978,3,3,Brazil,C,Women
+10,2,DF,Poliana,28,61,5,Sao Jose,1991-02-06,1991,2,6,Brazil,C,Women
+10,11,FW,Cristiane,34,138,89,Sao Paulo,1985-05-15,1985,5,15,Brazil,C,Women
+10,13,DF,Leticia Santos,24,20,0,SC Sand,1994-12-02,1994,12,2,Brazil,C,Women
+10,20,FW,Raquel,28,46,8,Sporting Huelva,1991-03-21,1991,3,21,Brazil,C,Women
+11,5,DF,Elena Linari,25,29,0,Atletico Madrid,1994-04-15,1994,4,15,Italy,C,Women
+11,14,FW,Stefania Tarenzi,31,3,1,ChievoVerona Valpo,1988-02-29,1988,2,29,Italy,C,Women
+11,7,DF,Alia Guagni,31,62,5,Fiorentina,1987-10-01,1987,10,1,Italy,C,Women
+11,8,MF,Alice Parisi,28,46,5,Fiorentina,1990-12-11,1990,12,11,Italy,C,Women
+11,18,FW,Ilaria Mauro,31,25,8,Fiorentina,1988-05-22,1988,5,22,Italy,C,Women
+11,12,GK,Chiara Marchitelli,34,40,0,Florentia,1985-05-04,1985,5,4,Italy,C,Women
+11,1,GK,Laura Giuliani,26,35,0,Juventus,1993-06-06,1993,6,6,Italy,C,Women
+11,3,DF,Sara Gama (captain),30,96,5,Juventus,1989-03-27,1989,3,27,Italy,C,Women
+11,4,MF,Aurora Galli,22,23,1,Juventus,1996-12-13,1996,12,13,Italy,C,Women
+11,6,MF,Martina Rosucci,27,36,1,Juventus,1992-05-09,1992,5,9,Italy,C,Women
+11,10,FW,Cristiana Girelli,29,52,28,Juventus,1990-04-23,1990,4,23,Italy,C,Women
+11,11,MF,Barbara Bonansea,27,49,17,Juventus,1991-06-13,1991,6,13,Italy,C,Women
+11,17,DF,Lisa Boattin,22,11,0,Juventus,1997-05-03,1997,5,3,Italy,C,Women
+11,21,MF,Valentina Cernoia,27,31,6,Juventus,1991-06-22,1991,6,22,Italy,C,Women
+11,2,MF,Valentina Bergamaschi,22,15,3,Milan,1997-01-22,1997,1,22,Italy,C,Women
+11,9,FW,Daniela Sabatino,33,46,21,Milan,1985-06-26,1985,6,26,Italy,C,Women
+11,16,DF,Laura Fusetti,28,0,0,Milan,1990-10-08,1990,10,8,Italy,C,Women
+11,19,FW,Valentina Giacinti,25,20,3,Milan,1994-01-02,1994,1,2,Italy,C,Women
+11,20,DF,Linda Tucceri Cimini,28,8,1,Milan,1991-04-04,1991,4,4,Italy,C,Women
+11,23,MF,Manuela Giugliano,21,21,3,Milan,1997-08-18,1997,8,18,Italy,C,Women
+11,13,DF,Elisa Bartoli,28,46,1,Roma,1991-05-07,1991,5,7,Italy,C,Women
+11,15,MF,Annamaria Serturini,21,0,0,Roma,1998-05-13,1998,5,13,Italy,C,Women
+11,22,GK,Rosalia Pipitone,33,3,0,Roma,1985-08-03,1985,8,3,Italy,C,Women
+12,6,MF,Havana Solaun,26,2,0,Klepp,1993-03-23,1993,3,23,Jamaica,C,Women
+12,12,MF,Sashana Campbell,28,9,2,Maccabi Kishronot Hadera,1991-03-02,1991,3,2,Jamaica,C,Women
+12,3,MF,Chanel Hudson-Marks,21,4,0,Memphis Tigers,1997-09-14,1997,9,14,Jamaica,C,Women
+12,10,FW,Jody Brown,17,13,8,Montverde Academy,2002-04-16,2002,4,16,Jamaica,C,Women
+12,23,GK,Yazmeen Jamieson,21,3,0,Papakura City,1998-03-17,1998,3,17,Jamaica,C,Women
+12,19,DF,Toriana Patterson,25,10,0,Pink Sport Time,1994-02-02,1994,2,2,Jamaica,C,Women
+12,16,DF,Dominique Bond-Flasza,22,17,2,PSV,1996-09-11,1996,9,11,Jamaica,C,Women
+12,17,DF,Allyson Swaby,22,10,0,Roma,1996-10-03,1996,10,3,Jamaica,C,Women
+12,18,MF,Trudi Carter,24,14,3,Roma,1994-11-18,1994,11,18,Jamaica,C,Women
+12,4,DF,Chantelle Swaby,20,10,0,Rutgers Scarlet Knights,1998-08-06,1998,8,6,Jamaica,C,Women
+12,22,FW,Mireya Grey,20,1,0,Seattle Sounders,1998-09-07,1998,9,7,Jamaica,C,Women
+12,13,GK,Nicole McClure,29,10,0,Sion Swifts,1989-11-16,1989,11,16,Jamaica,C,Women
+12,7,MF,Chinyelu Asher,26,23,3,Stabaek,1993-05-20,1993,5,20,Jamaica,C,Women
+12,15,FW,Tiffany Cameron,27,3,0,Stabaek,1991-10-16,1991,10,16,Jamaica,C,Women
+12,9,MF,Marlo Sweatman,24,14,3,Szent Mihaly,1994-12-01,1994,12,1,Jamaica,C,Women
+12,11,FW,Khadija Shaw,22,22,31,Tennessee Volunteers,1997-01-31,1997,1,31,Jamaica,C,Women
+12,2,DF,Lauren Silver,26,19,1,Trondheims-Orn,1993-03-22,1993,3,22,Jamaica,C,Women
+12,5,DF,Konya Plummer (captain),21,17,1,UCF Knights,1997-08-02,1997,8,2,Jamaica,C,Women
+12,8,MF,Ashleigh Shim,25,6,1,Unattached,1993-11-11,1993,11,11,Jamaica,C,Women
+12,1,GK,Sydney Schneider,19,11,0,UNC Wilmington Seahawks,1999-08-31,1999,8,31,Jamaica,C,Women
+12,21,FW,Olufolasade Adamolekun,18,4,0,United Soccer Alliance,2001-02-21,2001,2,21,Jamaica,C,Women
+12,20,MF,Cheyna Matthews,25,3,0,Washington Spirit,1993-11-10,1993,11,10,Jamaica,C,Women
+12,14,DF,Deneisha Blackwood,22,14,2,West Florida Argonauts,1997-03-07,1997,3,7,Jamaica,C,Women
+13,3,DF,Eliana Stabile,25,13,2,Boca Juniors,1993-11-26,1993,11,26,Argentina,D,Women
+13,16,MF,Lorena Benitez,20,2,0,Boca Juniors,1998-12-03,1998,12,3,Argentina,D,Women
+13,17,MF,Mariela Coronel,37,34,2,Granada,1981-06-20,1981,6,20,Argentina,D,Women
+13,10,MF,Estefania Banini (captain),28,32,9,Levante,1990-06-21,1990,6,21,Argentina,D,Women
+13,5,MF,Vanesa Santana,28,31,0,Logrono,1990-09-03,1990,9,3,Argentina,D,Women
+13,9,FW,Sole Jaimes,30,21,5,Lyon,1989-01-20,1989,1,20,Argentina,D,Women
+13,2,DF,Agustina Barroso,26,36,0,Madrid CFF,1993-05-20,1993,5,20,Argentina,D,Women
+13,7,FW,Yael Oviedo,27,24,2,Rayo Vallecano,1992-05-22,1992,5,22,Argentina,D,Women
+13,18,DF,Gabriela Chavez,30,18,0,River Plate,1989-04-09,1989,4,9,Argentina,D,Women
+13,20,MF,Dalila Ippolito,17,1,0,River Plate,2002-03-24,2002,3,24,Argentina,D,Women
+13,1,GK,Vanina Correa,35,31,0,Rosario Central,1983-08-14,1983,8,14,Argentina,D,Women
+13,13,DF,Virginia Gomez,28,8,0,Rosario Central,1991-02-26,1991,2,26,Argentina,D,Women
+13,6,DF,Aldana Cometti,23,32,3,Sevilla,1996-03-03,1996,3,3,Argentina,D,Women
+13,11,MF,Florencia Bonsegundo,25,34,10,Sporting Huelva,1993-07-14,1993,7,14,Argentina,D,Women
+13,8,MF,Ruth Bravo,27,18,1,Tacon,1992-03-06,1992,3,6,Argentina,D,Women
+13,4,DF,Adriana Sachs,25,24,0,UAI Urquiza,1993-12-25,1993,12,25,Argentina,D,Women
+13,14,MF,Miriam Mayorga,29,9,0,UAI Urquiza,1989-11-20,1989,11,20,Argentina,D,Women
+13,15,FW,Belen Potassa,30,28,7,UAI Urquiza,1988-12-12,1988,12,12,Argentina,D,Women
+13,19,MF,Mariana Larroquette,26,36,8,UAI Urquiza,1992-10-24,1992,10,24,Argentina,D,Women
+13,22,FW,Milagros Menendez,22,3,0,UAI Urquiza,1997-03-23,1997,3,23,Argentina,D,Women
+13,23,GK,Solana Pereyra,20,0,0,UAI Urquiza,1999-04-05,1999,4,5,Argentina,D,Women
+13,12,GK,Gaby Garton,29,2,0,Unattached,1990-05-27,1990,5,27,Argentina,D,Women
+13,21,DF,Natalie Juncos,28,6,0,Unattached,1990-12-28,1990,12,28,Argentina,D,Women
+14,14,DF,Leah Williamson,22,6,0,Arsenal,1997-03-29,1997,3,29,England,D,Women
+14,22,FW,Beth Mead,24,13,5,Arsenal,1995-05-09,1995,5,9,England,D,Women
+14,11,FW,Toni Duggan,27,72,22,Barcelona,1991-07-25,1991,7,25,England,D,Women
+14,18,FW,Ellen White,30,81,28,Birmingham City,1989-05-09,1989,5,9,England,D,Women
+14,23,MF,Lucy Staniforth,26,9,2,Birmingham City,1992-10-02,1992,10,2,England,D,Women
+14,6,DF,Millie Bright,25,26,0,Chelsea,1993-08-21,1993,8,21,England,D,Women
+14,10,FW,Fran Kirby,25,38,12,Chelsea,1993-06-29,1993,6,29,England,D,Women
+14,13,GK,Carly Telford,31,17,0,Chelsea,1987-07-07,1987,7,7,England,D,Women
+14,20,MF,Karen Carney,31,139,32,Chelsea,1987-08-01,1987,8,1,England,D,Women
+14,17,DF,Rachel Daly,27,21,3,Houston Dash,1991-12-06,1991,12,6,England,D,Women
+14,2,DF,Lucy Bronze,27,67,7,Lyon,1991-10-28,1991,10,28,England,D,Women
+14,1,GK,Karen Bardsley,34,75,0,Manchester City,1984-10-14,1984,10,14,England,D,Women
+14,4,MF,Keira Walsh,22,15,0,Manchester City,1997-04-08,1997,4,8,England,D,Women
+14,5,DF,Steph Houghton (captain),31,105,12,Manchester City,1988-04-23,1988,4,23,England,D,Women
+14,7,FW,Nikita Parris,25,33,11,Manchester City,1994-03-10,1994,3,10,England,D,Women
+14,8,MF,Jill Scott,32,135,22,Manchester City,1987-02-02,1987,2,2,England,D,Women
+14,12,DF,Demi Stokes,27,49,1,Manchester City,1991-12-12,1991,12,12,England,D,Women
+14,15,DF,Abbie McManus,26,13,0,Manchester City,1993-01-14,1993,1,14,England,D,Women
+14,19,MF,Georgia Stanway,20,7,1,Manchester City,1999-01-03,1999,1,3,England,D,Women
+14,3,DF,Alex Greenwood,25,36,2,Manchester United,1993-09-07,1993,9,7,England,D,Women
+14,16,MF,Jade Moore,28,45,1,Reading,1990-10-22,1990,10,22,England,D,Women
+14,9,FW,Jodie Taylor,33,40,17,Reign FC,1986-05-17,1986,5,17,England,D,Women
+14,21,GK,Mary Earps,26,5,0,VfL Wolfsburg,1993-03-07,1993,3,7,England,D,Women
+15,5,DF,Nana Ichise,21,16,0, Vegalta Sendai,1997-08-04,1997,8,4,Japan,D,Women
+15,20,FW,Kumi Yokoyama,25,41,17,AC Nagano Parceiro,1993-08-13,1993,8,13,Japan,D,Women
+15,21,GK,Chika Hirao,22,2,0,Albirex Niigata,1996-12-31,1996,12,31,Japan,D,Women
+15,13,MF,Saori Takarada,19,0,0,Cerezo Osaka Sakai,1999-12-27,1999,12,27,Japan,D,Women
+15,3,DF,Aya Sameshima,31,109,5,INAC Kobe Leonessa,1987-06-16,1987,6,16,Japan,D,Women
+15,6,MF,Hina Sugita,22,7,0,INAC Kobe Leonessa,1997-01-31,1997,1,31,Japan,D,Women
+15,7,MF,Emi Nakajima,28,70,14,INAC Kobe Leonessa,1990-09-27,1990,9,27,Japan,D,Women
+15,8,FW,Mana Iwabuchi,26,61,20,INAC Kobe Leonessa,1993-03-18,1993,3,18,Japan,D,Women
+15,23,DF,Shiori Miyake,23,18,0,INAC Kobe Leonessa,1995-10-13,1995,10,13,Japan,D,Women
+15,4,DF,Saki Kumagai (captain),28,104,0,Lyon,1990-10-17,1990,10,17,Japan,D,Women
+15,10,MF,Mizuho Sakaguchi,31,124,29,Nippon TV Beleza,1987-10-15,1987,10,15,Japan,D,Women
+15,11,FW,Rikako Kobayashi,21,5,2,Nippon TV Beleza,1997-07-21,1997,7,21,Japan,D,Women
+15,14,MF,Yui Hasegawa,22,36,6,Nippon TV Beleza,1997-01-29,1997,1,29,Japan,D,Women
+15,15,MF,Yuka Momiki,23,25,8,Nippon TV Beleza,1996-04-09,1996,4,9,Japan,D,Women
+15,16,DF,Asato Miyagawa,21,5,0,Nippon TV Beleza,1998-02-24,1998,2,24,Japan,D,Women
+15,17,MF,Narumi Miura,21,9,0,Nippon TV Beleza,1997-07-03,1997,7,3,Japan,D,Women
+15,18,GK,Ayaka Yamashita,23,27,0,Nippon TV Beleza,1995-09-29,1995,9,29,Japan,D,Women
+15,19,FW,Jun Endo,19,5,0,Nippon TV Beleza,2000-05-24,2000,5,24,Japan,D,Women
+15,22,DF,Risa Shimizu,22,24,0,Nippon TV Beleza,1996-06-15,1996,6,15,Japan,D,Women
+15,2,DF,Rumi Utsugi,30,113,6,Reign FC,1988-12-05,1988,12,5,Japan,D,Women
+15,1,GK,Sakiko Ikeda,26,14,0,Urawa Red Diamonds,1992-09-08,1992,9,8,Japan,D,Women
+15,9,FW,Yuika Sugasawa,28,63,18,Urawa Red Diamonds,1990-10-05,1990,10,5,Japan,D,Women
+15,12,DF,Moeka Minami,20,5,0,Urawa Red Diamonds,1998-12-07,1998,12,7,Japan,D,Women
+16,8,MF,Kim Little,28,133,53,Arsenal,1990-06-29,1990,6,29,Scotland,D,Women
+16,11,FW,Lisa Evans,27,78,17,Arsenal,1992-05-21,1992,5,21,Scotland,D,Women
+16,14,DF,Chloe Arthur,24,19,0,Birmingham City,1995-01-21,1995,1,21,Scotland,D,Women
+16,22,FW,Erin Cuthbert,20,30,10,Chelsea,1998-07-19,1998,7,19,Scotland,D,Women
+16,19,FW,Lana Clelland,26,25,3,Fiorentina,1993-01-26,1993,1,26,Scotland,D,Women
+16,1,GK,Lee Alexander,27,17,0,Glasgow City,1991-09-23,1991,9,23,Scotland,D,Women
+16,3,DF,Nicola Docherty,26,19,0,Glasgow City,1992-08-23,1992,8,23,Scotland,D,Women
+16,6,MF,Joanne Love,33,191,13,Glasgow City,1985-12-06,1985,12,6,Scotland,D,Women
+16,7,DF,Hayley Lauder,29,99,9,Glasgow City,1990-06-04,1990,6,4,Scotland,D,Women
+16,10,MF,Leanne Crichton,31,63,3,Glasgow City,1987-08-06,1987,8,6,Scotland,D,Women
+16,17,DF,Joelle Murray,32,48,1,Hibernian,1986-11-07,1986,11,7,Scotland,D,Women
+16,21,GK,Jenna Fife,23,4,0,Hibernian,1995-12-01,1995,12,1,Scotland,D,Women
+16,16,MF,Christie Murray,29,61,4,Liverpool,1990-05-03,1990,5,3,Scotland,D,Women
+16,5,DF,Jennifer Beattie,28,124,22,Manchester City,1991-05-13,1991,5,13,Scotland,D,Women
+16,9,MF,Caroline Weir,23,63,8,Manchester City,1995-06-20,1995,6,20,Scotland,D,Women
+16,18,FW,Claire Emslie,25,21,3,Manchester City,1994-03-08,1994,3,8,Scotland,D,Women
+16,2,DF,Kirsty Smith,25,35,0,Manchester United,1994-01-06,1994,1,6,Scotland,D,Women
+16,23,MF,Lizzie Arnot,23,26,2,Manchester United,1996-03-01,1996,3,1,Scotland,D,Women
+16,15,DF,Sophie Howard,25,14,1,Reading,1993-09-17,1993,9,17,Scotland,D,Women
+16,20,FW,Fiona Brown,24,37,2,Rosengard,1995-03-31,1995,3,31,Scotland,D,Women
+16,4,DF,Rachel Corsie (captain),29,109,16,Utah Royals,1989-08-17,1989,8,17,Scotland,D,Women
+16,12,GK,Shannon Lynn,33,30,0,Vittsjo,1985-10-22,1985,10,22,Scotland,D,Women
+16,13,FW,Jane Ross,29,127,58,West Ham United,1989-09-18,1989,9,18,Scotland,D,Women
+17,1,GK,Annette Ngo Ndom,34,50,0,Amazone FAP,1985-06-03,1985,6,3,Cameroon,E,Women
+17,15,DF,Ysis Sonkeng,29,NA,NA,Amazone FAP,1989-09-20,1989,9,20,Cameroon,E,Women
+17,20,MF,Genevieve Ngo Mbeleck,26,14,1,Amazone FAP,1993-03-10,1993,3,10,Cameroon,E,Women
+17,9,FW,Madeleine Ngono Mani,35,128,49,Ambilly,1983-10-16,1983,10,16,Cameroon,E,Women
+17,5,DF,Augustine Ejangue,30,62,0,Arna-Bjornar,1989-01-19,1989,1,19,Cameroon,E,Women
+17,23,GK,Marthe Ongmahan,26,0,0,AWA Yaounde,1992-06-12,1992,6,12,Cameroon,E,Women
+17,18,FW,Henriette Akaba,27,38,0,Besiktas,1992-06-07,1992,6,7,Cameroon,E,Women
+17,7,FW,Gabrielle Onguene,30,58,17,CSKA Moscow,1989-02-25,1989,2,25,Cameroon,E,Women
+17,11,DF,Aurelle Awona,26,4,0,Dijon,1993-02-02,1993,2,2,Cameroon,E,Women
+17,21,FW,Alexandra Takounda,18,NA,NA,Eclair,2000-07-07,2000,7,7,Cameroon,E,Women
+17,8,MF,Raissa Feudjio,23,60,1,Granadilla,1995-09-29,1995,9,29,Cameroon,E,Women
+17,12,DF,Claudine Meffometou,28,31,1,Guingamp,1990-07-01,1990,7,1,Cameroon,E,Women
+17,13,MF,Charlene Meyong,20,NA,NA,Louves Miniproff,1998-11-19,1998,11,19,Cameroon,E,Women
+17,14,MF,Ninon Abena,24,NA,NA,Louves Miniproff,1994-09-05,1994,9,5,Cameroon,E,Women
+17,2,DF,Christine Manie (captain),35,63,10,Nancy,1984-05-04,1984,5,4,Cameroon,E,Women
+17,19,MF,Marlyse Ngo Ndoumbouk,34,NA,NA,Nancy,1985-01-03,1985,1,3,Cameroon,E,Women
+17,22,FW,Michaela Abam,21,NA,NA,Paris FC,1997-06-13,1997,6,13,Cameroon,E,Women
+17,10,MF,Jeannette Yango,25,38,1,Saint-Malo,1993-06-12,1993,6,12,Cameroon,E,Women
+17,6,DF,Estelle Johnson,30,NA,NA,Sky Blue FC,1988-07-21,1988,7,21,Cameroon,E,Women
+17,4,DF,Yvonne Leuko,27,29,0,Strasbourg,1991-11-20,1991,11,20,Cameroon,E,Women
+17,16,GK,Isabelle Mambingo,34,NA,NA,Sunshine Queens,1985-04-10,1985,4,10,Cameroon,E,Women
+17,17,FW,Gaelle Enganamouit,26,43,5,Unattached,1992-06-09,1992,6,9,Cameroon,E,Women
+17,3,FW,Ajara Nchout,26,49,5,Valerenga,1993-01-12,1993,1,12,Cameroon,E,Women
+18,20,DF,Shannon Woeller,29,20,0,Eskilstuna United,1990-01-31,1990,1,31,Canada,E,Women
+18,6,FW,Deanne Rose,20,40,8,Florida Gators,1999-03-03,1999,3,3,Canada,E,Women
+18,14,MF,Gabrielle Carle,20,13,1,Florida State Seminoles,1998-10-12,1998,10,12,Canada,E,Women
+18,2,DF,Allysha Chapman,30,64,1,Houston Dash,1989-01-25,1989,1,25,Canada,E,Women
+18,13,MF,Sophie Schmidt,30,184,19,Houston Dash,1988-06-28,1988,6,28,Canada,E,Women
+18,15,FW,Nichelle Prince,24,50,10,Houston Dash,1995-02-19,1995,2,19,Canada,E,Women
+18,22,DF,Lindsay Agnew,24,11,0,Houston Dash,1995-03-31,1995,3,31,Canada,E,Women
+18,23,DF,Jenna Hellstrom,24,4,0,KIF Orebro,1995-04-02,1995,4,2,Canada,E,Women
+18,3,DF,Kadeisha Buchanan,23,88,3,Lyon,1995-11-05,1995,11,5,Canada,E,Women
+18,16,FW,Janine Beckie,24,56,25,Manchester City,1994-08-20,1994,8,20,Canada,E,Women
+18,1,GK,Stephanie Labbe,32,61,0,North Carolina Courage,1986-10-10,1986,10,10,Canada,E,Women
+18,4,DF,Shelina Zadorsky,26,52,1,Orlando Pride,1992-08-24,1992,8,24,Canada,E,Women
+18,5,DF,Rebecca Quinn,23,48,5,Paris FC,1995-08-11,1995,8,11,Canada,E,Women
+18,10,DF,Ashley Lawrence,23,76,5,Paris Saint-Germain,1995-06-11,1995,6,11,Canada,E,Women
+18,12,FW,Christine Sinclair (captain),35,282,181,Portland Thorns,1983-06-12,1983,6,12,Canada,E,Women
+18,18,GK,Kailen Sheridan,23,7,0,Sky Blue FC,1995-07-16,1995,7,16,Canada,E,Women
+18,7,MF,Julia Grosso,18,16,0,Texas Longhorns,2000-08-29,2000,8,29,Canada,E,Women
+18,17,MF,Jessie Fleming,21,65,8,UCLA Bruins,1998-03-11,1998,3,11,Canada,E,Women
+18,11,MF,Desiree Scott,31,143,0,Utah Royals,1987-07-31,1987,7,31,Canada,E,Women
+18,8,DF,Jayde Riviere,18,5,0,Vancouver Whitecaps,2001-01-22,2001,1,22,Canada,E,Women
+18,9,FW,Jordyn Huitema,18,21,6,Vancouver Whitecaps,2001-05-08,2001,5,8,Canada,E,Women
+18,21,GK,Sabrina D'Angelo,26,6,0,Vittsjo,1993-05-11,1993,5,11,Canada,E,Women
+18,19,FW,Adriana Leon,26,57,15,West Ham United,1992-10-02,1992,10,2,Canada,E,Women
+19,14,MF,Jackie Groenen,24,46,2,1. FFC Frankfurt,1994-12-17,1994,12,17,Netherlands,E,Women
+19,12,MF,Victoria Pelova,20,3,0,ADO Den Haag,1999-06-03,1999,6,3,Netherlands,E,Women
+19,5,DF,Kika van Es,27,58,0,Ajax,1991-10-11,1991,10,11,Netherlands,E,Women
+19,16,GK,Lize Kop,21,1,0,Ajax,1998-03-17,1998,3,17,Netherlands,E,Women
+19,17,FW,Ellen Jansen,26,14,1,Ajax,1992-10-06,1992,10,6,Netherlands,E,Women
+19,22,DF,Liza van der Most,25,13,0,Ajax,1993-10-08,1993,10,8,Netherlands,E,Women
+19,1,GK,Sari van Veenendaal (captain),29,53,0,Arsenal,1990-04-03,1990,4,3,Netherlands,E,Women
+19,9,FW,Vivianne Miedema,22,75,58,Arsenal,1996-07-15,1996,7,15,Netherlands,E,Women
+19,10,MF,Danielle van de Donk,27,89,16,Arsenal,1991-08-05,1991,8,5,Netherlands,E,Women
+19,20,DF,Dominique Bloodworth,24,47,0,Arsenal,1995-01-17,1995,1,17,Netherlands,E,Women
+19,3,DF,Stefanie van der Gragt,26,56,7,Barcelona,1992-08-16,1992,8,16,Netherlands,E,Women
+19,11,FW,Lieke Martens,26,103,42,Barcelona,1992-12-16,1992,12,16,Netherlands,E,Women
+19,19,MF,Jill Roord,22,41,3,Bayern Munich,1997-04-22,1997,4,22,Netherlands,E,Women
+19,21,FW,Lineth Beerensteyn,22,40,9,Bayern Munich,1996-10-11,1996,10,11,Netherlands,E,Women
+19,18,DF,Danique Kerkdijk,23,19,0,Bristol City,1996-05-01,1996,5,1,Netherlands,E,Women
+19,15,MF,Inessa Kaagman,23,2,0,Everton,1996-04-17,1996,4,17,Netherlands,E,Women
+19,23,GK,Loes Geurts,33,123,0,Kopparbergs/Goteborg,1986-01-12,1986,1,12,Netherlands,E,Women
+19,7,FW,Shanice van de Sanden,26,64,17,Lyon,1992-10-02,1992,10,2,Netherlands,E,Women
+19,6,DF,Anouk Dekker,32,77,6,Montpellier,1986-11-15,1986,11,15,Netherlands,E,Women
+19,4,DF,Merel van Dongen,26,27,1,Real Betis,1993-02-11,1993,2,11,Netherlands,E,Women
+19,2,DF,Desiree van Lunteren,26,71,0,SC Freiburg,1992-12-30,1992,12,30,Netherlands,E,Women
+19,13,FW,Renate Jansen,28,36,3,Twente,1990-12-07,1990,12,7,Netherlands,E,Women
+19,8,MF,Sherida Spitse,29,162,30,Valerenga,1990-05-29,1990,5,29,Netherlands,E,Women
+20,6,DF,Rebekah Stott,25,73,4,Avaldsnes,1993-06-17,1993,6,17,New Zealand,E,Women
+20,21,GK,Victoria Esson,28,3,0,Avaldsnes,1991-03-06,1991,3,6,New Zealand,E,Women
+20,1,GK,Erin Nayler,27,63,0,Bordeaux,1992-04-17,1992,4,17,New Zealand,E,Women
+20,20,MF,Daisy Cleverley,22,8,2,California Golden Bears,1997-04-30,1997,4,30,New Zealand,E,Women
+20,7,DF,Ali Riley (captain),31,125,1,Chelsea,1987-10-30,1987,10,30,New Zealand,E,Women
+20,22,MF,Olivia Chance,25,13,0,Everton,1993-10-05,1993,10,5,New Zealand,E,Women
+20,5,DF,Nicole Stratford,30,0,0,Glenfield Rovers,1989-02-01,1989,2,1,New Zealand,E,Women
+20,12,MF,Betsy Hassett,28,113,13,KR Reykjavik,1990-08-04,1990,8,4,New Zealand,E,Women
+20,3,DF,Anna Green,28,73,7,Miramar Rangers,1990-08-20,1990,8,20,New Zealand,E,Women
+20,11,FW,Sarah Gregorius,31,93,34,Miramar Rangers,1987-08-06,1987,8,6,New Zealand,E,Women
+20,8,DF,Abby Erceg,29,137,6,North Carolina Courage,1989-11-20,1989,11,20,New Zealand,E,Women
+20,16,MF,Katie Duncan,31,122,1,Onehunga Sports,1988-02-01,1988,2,1,New Zealand,E,Women
+20,18,DF,Stephanie Skilton,24,9,0,Papakura City,1994-10-27,1994,10,27,New Zealand,E,Women
+20,19,FW,Paige Satchell,21,13,1,Three Kings United,1998-04-13,1998,4,13,New Zealand,E,Women
+20,9,FW,Emma Kete,31,51,3,Unattached,1987-09-01,1987,9,1,New Zealand,E,Women
+20,10,MF,Annalie Longo,27,115,15,Unattached,1991-07-01,1991,7,1,New Zealand,E,Women
+20,13,FW,Rosie White,26,101,24,Unattached,1993-06-06,1993,6,6,New Zealand,E,Women
+20,17,FW,Hannah Wilkinson,27,89,25,Unattached,1992-05-28,1992,5,28,New Zealand,E,Women
+20,14,MF,Katie Bowen,25,61,3,Utah Royals,1994-04-15,1994,4,15,New Zealand,E,Women
+20,4,DF,C. J. Bott,24,17,1,Vittsjo,1995-04-22,1995,4,22,New Zealand,E,Women
+20,2,MF,Ria Percival,29,141,14,West Ham United,1989-12-07,1989,12,7,New Zealand,E,Women
+20,15,DF,Sarah Morton,20,6,1,Western Springs,1998-08-28,1998,8,28,New Zealand,E,Women
+20,23,GK,Nadia Olla,19,1,0,Western Springs,2000-02-07,2000,2,7,New Zealand,E,Women
+21,9,FW,Maria Jose Urrutia,25,7,0,3B da Amazonia,1993-12-17,1993,12,17,Chile,F,Women
+21,19,FW,Yessenia Huenteo,26,16,1,Caceres,1992-10-30,1992,10,30,Chile,F,Women
+21,5,DF,Valentina Diaz,18,2,0,Colo-Colo,2001-03-30,2001,3,30,Chile,F,Women
+21,21,FW,Rosario Balmaceda,20,4,0,Colo-Colo,1999-03-23,1999,3,23,Chile,F,Women
+21,22,MF,Elisa Duran,17,0,0,Colo-Colo,2002-01-16,2002,1,16,Chile,F,Women
+21,16,DF,Fernanda Pinilla,25,16,0,Cordoba,1993-11-06,1993,11,6,Chile,F,Women
+21,13,FW,Javiera Grez,18,9,1,Curico Unido,2000-07-11,2000,7,11,Chile,F,Women
+21,3,DF,Carla Guerrero,31,15,4,Rayo Vallecano,1987-12-23,1987,12,23,Chile,F,Women
+21,18,DF,Camila Saez,24,21,3,Rayo Vallecano,1994-10-17,1994,10,17,Chile,F,Women
+21,1,GK,Christiane Endler (captain),27,21,0,Saint-Germain,1991-07-23,1991,7,23,Chile,F,Women
+21,14,MF,Daniela Pardo,30,5,0,Santiago Morning,1988-09-05,1988,9,5,Chile,F,Women
+21,17,DF,Javiera Toro,21,3,0,Santiago Morning,1998-04-22,1998,4,22,Chile,F,Women
+21,6,MF,Claudia Soto,25,15,0,Santos,1993-07-06,1993,7,6,Chile,F,Women
+21,4,MF,Francisca Lara,28,23,9,Sevilla,1990-07-29,1990,7,29,Chile,F,Women
+21,8,MF,Karen Araya,28,21,6,Sevilla,1990-10-16,1990,10,16,Chile,F,Women
+21,7,FW,Maria Jose Rojas,31,21,12,Slavia Praha,1987-12-17,1987,12,17,Chile,F,Women
+21,11,MF,Yessenia Lopez,28,21,3,Sporting Huelva,1990-10-20,1990,10,20,Chile,F,Women
+21,23,GK,Ryann Torrero,28,0,0,Unattached,1990-09-01,1990,9,1,Chile,F,Women
+21,12,GK,Natalia Campos,27,3,0,Universidad Catolica,1992-01-12,1992,1,12,Chile,F,Women
+21,20,FW,Daniela Zamora,28,11,0,Universidad de Chile,1990-11-13,1990,11,13,Chile,F,Women
+21,10,FW,Yanara Aedo,25,20,9,Valencia,1993-08-05,1993,8,5,Chile,F,Women
+21,2,DF,Rocio Soto,25,13,2,Zaragoza,1993-09-21,1993,9,21,Chile,F,Women
+21,15,DF,Su Helen Galaz,28,11,0,Zaragoza,1991-05-27,1991,5,27,Chile,F,Women
+22,18,FW,Fridolina Rolfo,25,35,8,Bayern Munich,1993-11-24,1993,11,24,Sweden,F,Women
+22,1,GK,Hedvig Lindahl,36,158,0,Chelsea,1983-04-29,1983,4,29,Sweden,F,Women
+22,2,DF,Jonna Andersson,26,41,0,Chelsea,1993-01-02,1993,1,2,Sweden,F,Women
+22,6,DF,Magdalena Eriksson,25,49,5,Chelsea,1993-09-08,1993,9,8,Sweden,F,Women
+22,22,FW,Olivia Schough,28,72,9,Djurgarden,1991-03-11,1991,3,11,Sweden,F,Women
+22,12,GK,Jennifer Falk,26,0,0,Kopparbergs/Goteborg,1993-04-26,1993,4,26,Sweden,F,Women
+22,14,MF,Julia Roddar,27,6,0,Kopparbergs/Goteborg,1992-02-16,1992,2,16,Sweden,F,Women
+22,16,FW,Julia Zigiotti Olme,21,7,0,Kopparbergs/Goteborg,1997-12-24,1997,12,24,Sweden,F,Women
+22,23,MF,Elin Rubensson,26,63,2,Kopparbergs/Goteborg,1993-05-11,1993,5,11,Sweden,F,Women
+22,8,MF,Lina Hurtig,23,18,3,Linkoping,1995-09-15,1995,9,15,Sweden,F,Women
+22,9,MF,Kosovare Asllani,29,127,32,Linkoping,1989-07-29,1989,7,29,Sweden,F,Women
+22,11,FW,Stina Blackstenius,23,44,10,Linkoping,1996-02-05,1996,2,5,Sweden,F,Women
+22,20,FW,Mimmi Larsson,25,20,6,Linkoping,1994-04-09,1994,4,9,Sweden,F,Women
+22,3,DF,Linda Sembrant,32,110,8,Montpellier,1987-05-15,1987,5,15,Sweden,F,Women
+22,10,FW,Sofia Jakobsson,29,101,17,Montpellier,1990-04-23,1990,4,23,Sweden,F,Women
+22,4,DF,Hanna Glas,26,22,0,Paris Saint-Germain,1993-04-16,1993,4,16,Sweden,F,Women
+22,7,FW,Madelen Janogy,23,4,1,Pitea,1995-11-12,1995,11,12,Sweden,F,Women
+22,15,DF,Nathalie Bjorn,22,9,2,Rosengard,1997-05-04,1997,5,4,Sweden,F,Women
+22,17,MF,Caroline Seger (captain),34,193,27,Rosengard,1985-03-19,1985,3,19,Sweden,F,Women
+22,21,GK,Zecira Musovic,23,2,0,Rosengard,1996-05-26,1996,5,26,Sweden,F,Women
+22,13,DF,Amanda Ilestedt,26,26,2,Turbine Potsdam,1993-01-17,1993,1,17,Sweden,F,Women
+22,19,MF,Anna Anvegard,22,9,1,Vaxjo,1997-05-10,1997,5,10,Sweden,F,Women
+22,5,DF,Nilla Fischer,34,176,23,VfL Wolfsburg,1984-08-02,1984,8,2,Sweden,F,Women
+23,18,GK,Sukanya Chor Charoenying,31,NA,NA,Air Force United,1987-11-24,1987,11,24,Thailand,F,Women
+23,4,DF,Duangnapa Sritala (captain),33,NA,NA,Bangkok,1986-02-04,1986,2,4,Thailand,F,Women
+23,17,FW,Taneekarn Dangda,26,NA,NA,Bangkok,1992-12-15,1992,12,15,Thailand,F,Women
+23,20,MF,Wilaiporn Boothduang,31,NA,NA,Bangkok,1987-06-25,1987,6,25,Thailand,F,Women
+23,21,MF,Kanjana Sungngoen,32,NA,NA,Bangkok,1986-09-21,1986,9,21,Thailand,F,Women
+23,1,GK,Waraporn Boonsing,29,NA,NA,Bundit Asia,1990-02-16,1990,2,16,Thailand,F,Women
+23,2,DF,Kanjanaporn Saengkoon,22,NA,NA,Bundit Asia,1996-07-18,1996,7,18,Thailand,F,Women
+23,3,DF,Natthakarn Chinwong,27,NA,NA,Bundit Asia,1992-03-15,1992,3,15,Thailand,F,Women
+23,6,MF,Pikul Khueanpet,30,NA,NA,Bundit Asia,1988-09-20,1988,9,20,Thailand,F,Women
+23,10,DF,Sunisa Srangthaisong,31,NA,NA,Bundit Asia,1988-05-06,1988,5,6,Thailand,F,Women
+23,12,MF,Rattikan Thongsombut,27,NA,NA,Bundit Asia,1991-07-07,1991,7,7,Thailand,F,Women
+23,13,FW,Orathai Srimanee,30,NA,NA,Bundit Asia,1988-06-12,1988,6,12,Thailand,F,Women
+23,15,MF,Orapin Waenngoen,23,NA,NA,Bundit Asia,1995-10-07,1995,10,7,Thailand,F,Women
+23,16,DF,Khwanrudi Saengchan,28,NA,NA,Bundit Asia,1991-05-16,1991,5,16,Thailand,F,Women
+23,23,DF,Phornphirun Philawan,20,NA,NA,Bundit Asia,1999-04-08,1999,4,8,Thailand,F,Women
+23,8,FW,Miranda Nild,22,NA,NA,California Golden Bears,1997-04-01,1997,4,1,Thailand,F,Women
+23,5,DF,Ainon Phancha,27,NA,NA,Chonburi Sriprathum,1992-01-26,1992,1,26,Thailand,F,Women
+23,7,MF,Silawan Intamee,25,NA,NA,Chonburi Sriprathum,1994-01-22,1994,1,22,Thailand,F,Women
+23,9,DF,Warunee Phetwiset,28,NA,NA,Chonburi Sriprathum,1990-12-13,1990,12,13,Thailand,F,Women
+23,14,FW,Saowalak Pengngam,22,NA,NA,Chonburi Sriprathum,1996-11-30,1996,11,30,Thailand,F,Women
+23,19,DF,Pitsamai Sornsai,30,NA,NA,Chonburi Sriprathum,1989-01-19,1989,1,19,Thailand,F,Women
+23,22,GK,Tiffany Sornpao,21,NA,NA,Kennesaw State Owls,1998-05-22,1998,5,22,Thailand,F,Women
+23,11,MF,Sudarat Chuchuen,21,NA,NA,Sisaket,1997-06-19,1997,6,19,Thailand,F,Women
+24,1,GK,Alyssa Naeher,31,43,0,Chicago Red Stars,1988-04-20,1988,4,20,United States,F,Women
+24,6,MF,Morgan Brian,26,82,6,Chicago Red Stars,1993-02-26,1993,2,26,United States,F,Women
+24,8,MF,Julie Ertz,27,79,18,Chicago Red Stars,1992-04-06,1992,4,6,United States,F,Women
+24,12,DF,Tierna Davidson,20,19,1,Chicago Red Stars,1998-09-19,1998,9,19,United States,F,Women
+24,3,MF,Sam Mewis,26,47,9,North Carolina Courage,1992-10-09,1992,10,9,United States,F,Women
+24,7,DF,Abby Dahlkemper,26,37,0,North Carolina Courage,1993-05-13,1993,5,13,United States,F,Women
+24,19,DF,Crystal Dunn,26,83,24,North Carolina Courage,1992-07-03,1992,7,3,United States,F,Women
+24,22,FW,Jessica McDonald,31,7,2,North Carolina Courage,1988-02-28,1988,2,28,United States,F,Women
+24,11,DF,Ali Krieger,34,99,1,Orlando Pride,1984-07-28,1984,7,28,United States,F,Women
+24,13,FW,Alex Morgan (co-captain),29,160,101,Orlando Pride,1989-07-02,1989,7,2,United States,F,Women
+24,18,GK,Ashlyn Harris,33,21,0,Orlando Pride,1985-10-19,1985,10,19,United States,F,Women
+24,9,MF,Lindsey Horan,25,66,8,Portland Thorns,1994-05-26,1994,5,26,United States,F,Women
+24,14,DF,Emily Sonnett,25,31,0,Portland Thorns,1993-11-25,1993,11,25,United States,F,Women
+24,17,FW,Tobin Heath,31,147,28,Portland Thorns,1988-05-29,1988,5,29,United States,F,Women
+24,21,GK,Adrianna Franch,28,1,0,Portland Thorns,1990-11-12,1990,11,12,United States,F,Women
+24,15,FW,Megan Rapinoe (co-captain),33,150,44,Reign FC,1985-07-05,1985,7,5,United States,F,Women
+24,20,MF,Allie Long,31,42,6,Reign FC,1987-08-13,1987,8,13,United States,F,Women
+24,10,FW,Carli Lloyd (co-captain),36,271,107,Sky Blue FC,1982-07-16,1982,7,16,United States,F,Women
+24,4,DF,Becky Sauerbrunn,34,155,0,Utah Royals,1985-06-06,1985,6,6,United States,F,Women
+24,5,DF,Kelley O'Hara,30,115,2,Utah Royals,1988-08-04,1988,8,4,United States,F,Women
+24,23,FW,Christen Press,30,113,47,Utah Royals,1988-12-29,1988,12,29,United States,F,Women
+24,2,FW,Mallory Pugh,21,50,15,Washington Spirit,1998-04-29,1998,4,29,United States,F,Women
+24,16,MF,Rose Lavelle,24,24,6,Washington Spirit,1995-05-14,1995,5,14,United States,F,Women
+1,9,FW,Olivier Giroud,31,74,31,Chelsea,1986-09-30,1986,9,30,France,C,Men
+1,13,MF,N'Golo Kante,27,24,1,Chelsea,1991-03-29,1991,3,29,France,C,Men
+1,22,DF,Benjamin Mendy,23,7,0,Manchester City,1994-07-17,1994,7,17,France,C,Men
+1,6,MF,Paul Pogba,25,54,9,Manchester United,1993-03-15,1993,3,15,France,C,Men
+1,1,GK,Hugo Lloris (captain),31,98,0,Tottenham Hotspur,1986-12-26,1986,12,26,France,C,Men
+1,18,FW,Nabil Fekir,24,12,2,Lyon,1993-07-18,1993,7,18,France,C,Men
+1,16,GK,Steve Mandanda,33,27,0,Marseille,1985-03-28,1985,3,28,France,C,Men
+1,17,DF,Adil Rami,32,35,1,Marseille,1985-12-27,1985,12,27,France,C,Men
+1,20,FW,Florian Thauvin,25,4,0,Marseille,1993-01-26,1993,1,26,France,C,Men
+1,8,FW,Thomas Lemar,22,12,3,Monaco,1995-11-12,1995,11,12,France,C,Men
+1,19,DF,Djibril Sidibe,25,17,1,Monaco,1992-07-29,1992,7,29,France,C,Men
+1,3,DF,Presnel Kimpembe,22,2,0,Paris Saint-Germain,1995-08-13,1995,8,13,France,C,Men
+1,10,FW,Kylian Mbappe,19,15,4,Paris Saint-Germain,1998-12-20,1998,12,20,France,C,Men
+1,23,GK,Alphonse Areola,25,0,0,Paris Saint-Germain,1993-02-27,1993,2,27,France,C,Men
+1,12,MF,Corentin Tolisso,23,9,0,Bayern Munich,1994-08-03,1994,8,3,France,C,Men
+1,2,DF,Benjamin Pavard,22,6,0,VfB Stuttgart,1996-03-28,1996,3,28,France,C,Men
+1,14,MF,Blaise Matuidi,31,67,9,Juventus,1987-04-09,1987,4,9,France,C,Men
+1,7,FW,Antoine Griezmann,27,54,20,Atletico Madrid,1991-03-21,1991,3,21,France,C,Men
+1,21,DF,Lucas Hernandez,22,5,0,Atletico Madrid,1996-02-14,1996,2,14,France,C,Men
+1,5,DF,Samuel Umtiti,24,19,2,Barcelona,1993-11-14,1993,11,14,France,C,Men
+1,11,FW,Ousmane Dembele,21,12,2,Barcelona,1997-05-15,1997,5,15,France,C,Men
+1,4,DF,Raphael Varane,25,42,2,Real Madrid,1993-04-25,1993,4,25,France,C,Men
+1,15,MF,Steven Nzonzi,29,4,0,Sevilla,1988-12-15,1988,12,15,France,C,Men
+2,3,DF,Elderson Echiejile,30,62,3,Cercle Brugge,1988-01-20,1988,1,20,Nigeria,D,Men
+2,9,FW,Odion Ighalo,28,19,4,Changchun Yatai,1989-06-16,1989,6,16,Nigeria,D,Men
+2,10,MF,John Obi Mikel (captain),31,85,6,Tianjin TEDA,1987-04-22,1987,4,22,Nigeria,D,Men
+2,18,FW,Alex Iwobi,22,19,5,Arsenal,1996-05-03,1996,5,3,Nigeria,D,Men
+2,11,FW,Victor Moses,27,34,11,Chelsea,1990-12-12,1990,12,12,Nigeria,D,Men
+2,4,MF,Wilfred Ndidi,21,17,0,Leicester City,1996-12-16,1996,12,16,Nigeria,D,Men
+2,14,FW,Kelechi Iheanacho,22,18,8,Leicester City,1996-03-10,1996,3,10,Nigeria,D,Men
+2,20,DF,Chidozie Awaziem,21,4,0,Nantes,1997-01-01,1997,1,1,Nigeria,D,Men
+2,6,DF,Leon Balogun,29,19,0,Mainz 05,1988-06-28,1988,6,28,Nigeria,D,Men
+2,19,MF,John Ogu,30,20,2,Hapoel Be'er Sheva,1988-04-20,1988,4,20,Nigeria,D,Men
+2,13,FW,Simeon Nwankwo,26,2,0,Crotone,1992-05-07,1992,5,7,Nigeria,D,Men
+2,15,MF,Joel Obi,27,17,0,Torino,1991-05-22,1991,5,22,Nigeria,D,Men
+2,21,DF,Tyronne Ebuehi,22,7,0,ADO Den Haag,1995-12-16,1995,12,16,Nigeria,D,Men
+2,1,GK,Ikechukwu Ezenwa,29,24,0,Enyimba,1988-10-16,1988,10,16,Nigeria,D,Men
+2,2,DF,Brian Idowu,26,5,1,Amkar Perm,1992-05-18,1992,5,18,Nigeria,D,Men
+2,7,FW,Ahmed Musa,25,72,13,CSKA Moscow,1992-10-14,1992,10,14,Nigeria,D,Men
+2,16,GK,Daniel Akpeyi,32,7,0,Chippa United,1986-03-08,1986,3,8,Nigeria,D,Men
+2,23,GK,Francis Uzoho,19,6,0,Deportivo La Coruna,1998-10-28,1998,10,28,Nigeria,D,Men
+2,8,MF,Peter Etebo,22,14,1,Las Palmas,1995-11-09,1995,11,9,Nigeria,D,Men
+2,5,DF,William Troost-Ekong,24,22,1,Bursaspor,1993-09-01,1993,9,1,Nigeria,D,Men
+2,12,DF,Shehu Abdullahi,25,25,0,Bursaspor,1993-03-12,1993,3,12,Nigeria,D,Men
+2,22,DF,Kenneth Omeruo,24,39,0,Kasimpasa,1993-10-17,1993,10,17,Nigeria,D,Men
+2,17,MF,Ogenyi Onazi,25,52,1,Trabzonspor,1992-12-25,1992,12,25,Nigeria,D,Men
+4,11,FW,Hwang Hee-chan,22,14,2,Red Bull Salzburg,1996-01-26,1996,1,26,South Korea,F,Men
+4,19,DF,Kim Young-gwon,28,53,2,Guangzhou Evergrande,1990-02-27,1990,2,27,South Korea,F,Men
+4,7,FW,Son Heung-min,25,67,21,Tottenham Hotspur,1992-07-08,1992,7,8,South Korea,F,Men
+4,13,MF,Koo Ja-cheol,29,68,19,FC Augsburg,1989-02-27,1989,2,27,South Korea,F,Men
+4,10,MF,Lee Seung-woo,20,4,0,Hellas Verona,1998-01-06,1998,1,6,South Korea,F,Men
+4,21,GK,Kim Jin-hyeon,30,15,0,Cerezo Osaka,1987-07-06,1987,7,6,South Korea,F,Men
+4,20,DF,Jang Hyun-soo,26,51,3,FC Tokyo,1991-09-28,1991,9,28,South Korea,F,Men
+4,3,DF,Jung Seung-hyun,24,6,0,Sagan Tosu,1994-04-03,1994,4,3,South Korea,F,Men
+4,1,GK,Kim Seung-gyu,27,33,0,Vissel Kobe,1990-09-30,1990,9,30,South Korea,F,Men
+4,15,MF,Jung Woo-young,28,30,1,Vissel Kobe,1989-12-14,1989,12,14,South Korea,F,Men
+4,8,MF,Ju Se-jong,27,11,1,Asan Mugunghwa,1990-10-30,1990,10,30,South Korea,F,Men
+4,23,GK,Jo Hyeon-woo,26,6,0,Daegu FC,1991-09-25,1991,9,25,South Korea,F,Men
+4,22,DF,Go Yo-han,30,20,0,FC Seoul,1988-03-10,1988,3,10,South Korea,F,Men
+4,18,MF,Moon Seon-min,26,3,1,Incheon United,1992-06-09,1992,6,9,South Korea,F,Men
+4,4,DF,Oh Ban-suk,30,2,0,Jeju United,1988-05-20,1988,5,20,South Korea,F,Men
+4,2,DF,Lee Yong,31,28,0,Jeonbuk Hyundai Motors,1986-12-24,1986,12,24,South Korea,F,Men
+4,9,FW,Kim Shin-wook,30,50,10,Jeonbuk Hyundai Motors,1988-04-14,1988,4,14,South Korea,F,Men
+4,17,MF,Lee Jae-sung,25,35,6,Jeonbuk Hyundai Motors,1992-08-10,1992,8,10,South Korea,F,Men
+4,12,DF,Kim Min-woo,28,20,1,Sangju Sangmu,1990-02-25,1990,2,25,South Korea,F,Men
+4,14,DF,Hong Chul,27,14,0,Sangju Sangmu,1990-09-17,1990,9,17,South Korea,F,Men
+4,5,DF,Yun Young-sun,29,6,0,Seongnam FC,1988-10-04,1988,10,4,South Korea,F,Men
+4,6,DF,Park Joo-ho,31,36,0,Ulsan Hyundai,1987-01-16,1987,1,16,South Korea,F,Men
+4,16,MF,Ki Sung-yueng (captain),29,102,10,Swansea City,1989-01-24,1989,1,24,South Korea,F,Men
+6,10,MF,Mesut Ozil,29,90,23,Arsenal,1988-10-15,1988,10,15,Germany,F,Men
+6,16,DF,Antonio Rudiger,25,24,1,Chelsea,1993-03-03,1993,3,3,Germany,F,Men
+6,21,MF,Ilkay Gundogan,27,26,4,Manchester City,1990-10-24,1990,10,24,Germany,F,Men
+6,7,MF,Julian Draxler,24,44,6,Paris Saint-Germain,1993-09-20,1993,9,20,Germany,F,Men
+6,12,GK,Kevin Trapp,27,3,0,Paris Saint-Germain,1990-07-08,1990,7,8,Germany,F,Men
+6,3,DF,Jonas Hector,28,38,3,1. FC Koln,1990-05-27,1990,5,27,Germany,F,Men
+6,20,MF,Julian Brandt,22,16,1,Bayer Leverkusen,1996-05-02,1996,5,2,Germany,F,Men
+6,1,GK,Manuel Neuer (captain),32,76,0,Bayern Munich,1986-03-27,1986,3,27,Germany,F,Men
+6,5,DF,Mats Hummels,29,64,5,Bayern Munich,1988-12-16,1988,12,16,Germany,F,Men
+6,13,MF,Thomas Muller,28,91,38,Bayern Munich,1989-09-13,1989,9,13,Germany,F,Men
+6,15,DF,Niklas Sule,22,11,0,Bayern Munich,1995-09-03,1995,9,3,Germany,F,Men
+6,17,DF,Jerome Boateng,29,71,1,Bayern Munich,1988-09-03,1988,9,3,Germany,F,Men
+6,18,DF,Joshua Kimmich,23,29,3,Bayern Munich,1995-02-08,1995,2,8,Germany,F,Men
+6,19,MF,Sebastian Rudy,28,25,1,Bayern Munich,1990-02-28,1990,2,28,Germany,F,Men
+6,11,FW,Marco Reus,29,31,9,Borussia Dortmund,1989-05-31,1989,5,31,Germany,F,Men
+6,4,DF,Matthias Ginter,24,18,0,Borussia Monchengladbach,1994-01-19,1994,1,19,Germany,F,Men
+6,2,DF,Marvin Plattenhardt,26,6,0,Hertha BSC,1992-01-26,1992,1,26,Germany,F,Men
+6,9,FW,Timo Werner,22,14,8,RB Leipzig,1996-03-06,1996,3,6,Germany,F,Men
+6,14,MF,Leon Goretzka,23,15,6,Schalke 04,1995-02-06,1995,2,6,Germany,F,Men
+6,23,FW,Mario Gomez,32,75,31,VfB Stuttgart,1985-07-10,1985,7,10,Germany,F,Men
+6,6,MF,Sami Khedira,31,75,7,Juventus,1987-04-04,1987,4,4,Germany,F,Men
+6,22,GK,Marc-Andre ter Stegen,26,20,0,Barcelona,1992-04-30,1992,4,30,Germany,F,Men
+6,8,MF,Toni Kroos,28,83,12,Real Madrid,1990-01-04,1990,1,4,Germany,F,Men
+8,16,DF,Nacho Monreal,32,22,1,Arsenal,1986-02-26,1986,2,26,Spain,B,Men
+8,14,DF,Cesar Azpilicueta,28,22,0,Chelsea,1989-08-28,1989,8,28,Spain,B,Men
+8,21,FW,David Silva,32,121,35,Manchester City,1986-01-08,1986,1,8,Spain,B,Men
+8,1,GK,David de Gea,27,29,0,Manchester United,1990-11-07,1990,11,7,Spain,B,Men
+8,10,MF,Thiago,27,29,2,Bayern Munich,1991-04-11,1991,4,11,Spain,B,Men
+8,23,GK,Pepe Reina,35,36,0,Napoli,1982-08-31,1982,8,31,Spain,B,Men
+8,13,GK,Kepa Arrizabalaga,23,1,0,Athletic Bilbao,1994-10-03,1994,10,3,Spain,B,Men
+8,7,MF,Saul,23,10,0,Atletico Madrid,1994-11-21,1994,11,21,Spain,B,Men
+8,8,MF,Koke,26,40,0,Atletico Madrid,1992-01-08,1992,1,8,Spain,B,Men
+8,19,FW,Diego Costa,29,20,7,Atletico Madrid,1988-10-07,1988,10,7,Spain,B,Men
+8,3,DF,Gerard Pique,31,98,5,Barcelona,1987-02-02,1987,2,2,Spain,B,Men
+8,5,MF,Sergio Busquets,29,103,2,Barcelona,1988-07-16,1988,7,16,Spain,B,Men
+8,6,MF,Andres Iniesta,34,127,14,Barcelona,1984-05-11,1984,5,11,Spain,B,Men
+8,18,DF,Jordi Alba,29,62,8,Barcelona,1989-03-21,1989,3,21,Spain,B,Men
+8,17,FW,Iago Aspas,30,10,5,Celta Vigo,1987-08-01,1987,8,1,Spain,B,Men
+8,2,DF,Dani Carvajal,26,15,0,Real Madrid,1992-01-11,1992,1,11,Spain,B,Men
+8,4,DF,Nacho,28,17,0,Real Madrid,1990-01-18,1990,1,18,Spain,B,Men
+8,11,FW,Lucas Vazquez,26,7,0,Real Madrid,1991-07-01,1991,7,1,Spain,B,Men
+8,15,DF,Sergio Ramos (captain),32,152,13,Real Madrid,1986-03-30,1986,3,30,Spain,B,Men
+8,20,MF,Marco Asensio,22,12,0,Real Madrid,1996-01-21,1996,1,21,Spain,B,Men
+8,22,MF,Isco,26,28,10,Real Madrid,1992-04-21,1992,4,21,Spain,B,Men
+8,12,DF,Alvaro Odriozola,22,4,1,Real Sociedad,1995-12-14,1995,12,14,Spain,B,Men
+8,9,FW,Rodrigo,27,6,2,Valencia,1991-03-06,1991,3,6,Spain,B,Men
+9,17,FW,Daniel Arzani,19,2,1,Melbourne City,1999-01-04,1999,1,4,Australia,C,Men
+9,21,FW,Dimitri Petratos,25,2,0,Newcastle Jets,1992-11-10,1992,11,10,Australia,C,Men
+9,19,DF,Josh Risdon,25,8,0,Western Sydney Wanderers,1992-07-27,1992,7,27,Australia,C,Men
+9,18,GK,Danny Vukovic,33,1,0,Genk,1985-03-27,1985,3,27,Australia,C,Men
+9,15,MF,Mile Jedinak (captain),33,76,18,Aston Villa,1984-08-03,1984,8,3,Australia,C,Men
+9,1,GK,Mathew Ryan,26,44,0,Brighton & Hove Albion,1992-04-08,1992,4,8,Australia,C,Men
+9,13,MF,Aaron Mooy,27,34,5,Huddersfield Town,1990-09-15,1990,9,15,Australia,C,Men
+9,22,MF,Jackson Irvine,25,19,2,Hull City,1993-03-07,1993,3,7,Australia,C,Men
+9,3,DF,James Meredith,30,2,0,Millwall,1988-04-05,1988,4,5,Australia,C,Men
+9,4,FW,Tim Cahill,38,106,50,Millwall,1979-12-06,1979,12,6,Australia,C,Men
+9,8,MF,Massimo Luongo,25,36,5,Queens Park Rangers,1992-09-25,1992,9,25,Australia,C,Men
+9,7,FW,Mathew Leckie,27,53,8,Hertha BSC,1991-02-04,1991,2,4,Australia,C,Men
+9,10,FW,Robbie Kruse,29,64,5,VfL Bochum,1988-10-05,1988,10,5,Australia,C,Men
+9,11,FW,Andrew Nabbout,25,4,1,Urawa Red Diamonds,1992-12-17,1992,12,17,Australia,C,Men
+9,2,DF,Milos Degenek,24,18,0,Yokohama F. Marinos,1994-04-28,1994,4,28,Australia,C,Men
+9,12,GK,Brad Jones,36,6,0,Feyenoord,1982-03-19,1982,3,19,Australia,C,Men
+9,5,DF,Mark Milligan,32,71,6,Al Ahli,1985-08-04,1985,8,4,Australia,C,Men
+9,23,MF,Tom Rogic,25,37,7,Celtic,1992-12-16,1992,12,16,Australia,C,Men
+9,14,FW,Jamie Maclaren,24,6,0,Hibernian,1993-07-29,1993,7,29,Australia,C,Men
+9,6,DF,Matthew Jurman,28,4,0,Suwon Samsung Bluewings,1989-12-08,1989,12,8,Australia,C,Men
+9,20,DF,Trent Sainsbury,26,35,3,Grasshopper,1992-01-05,1992,1,5,Australia,C,Men
+9,9,FW,Tomi Juric,26,35,8,Luzern,1991-07-22,1991,7,22,Australia,C,Men
+9,16,DF,Aziz Behich,27,23,2,Bursaspor,1990-12-16,1990,12,16,Australia,C,Men
+10,16,GK,Cassio,31,1,0,Corinthians,1987-06-06,1987,6,6,Brazil,E,Men
+10,22,DF,Fagner,29,4,0,Corinthians,1989-06-11,1989,6,11,Brazil,E,Men
+10,4,DF,Pedro Geromel,32,2,0,Gremio,1985-09-21,1985,9,21,Brazil,E,Men
+10,8,MF,Renato Augusto,30,28,5,Beijing Sinobo Guoan,1988-02-08,1988,2,8,Brazil,E,Men
+10,19,MF,Willian,29,57,8,Chelsea,1988-08-09,1988,8,9,Brazil,E,Men
+10,20,FW,Roberto Firmino,26,21,7,Liverpool,1991-10-02,1991,10,2,Brazil,E,Men
+10,9,FW,Gabriel Jesus,21,17,10,Manchester City,1997-04-03,1997,4,3,Brazil,E,Men
+10,14,DF,Danilo,26,18,0,Manchester City,1991-07-15,1991,7,15,Brazil,E,Men
+10,17,MF,Fernandinho,33,44,2,Manchester City,1985-05-04,1985,5,4,Brazil,E,Men
+10,23,GK,Ederson,24,1,0,Manchester City,1993-08-17,1993,8,17,Brazil,E,Men
+10,2,DF,Thiago Silva,33,71,5,Paris Saint-Germain,1984-09-22,1984,9,22,Brazil,E,Men
+10,10,FW,Neymar,26,85,55,Paris Saint-Germain,1992-02-05,1992,2,5,Brazil,E,Men
+10,13,DF,Marquinhos,24,26,0,Paris Saint-Germain,1994-05-14,1994,5,14,Brazil,E,Men
+10,3,DF,Miranda,33,47,2,Inter Milan,1984-09-07,1984,9,7,Brazil,E,Men
+10,7,FW,Douglas Costa,27,25,3,Juventus,1990-09-14,1990,9,14,Brazil,E,Men
+10,1,GK,Alisson,25,26,0,Roma,1992-10-02,1992,10,2,Brazil,E,Men
+10,6,DF,Filipe Luis,32,33,2,Atletico Madrid,1985-08-09,1985,8,9,Brazil,E,Men
+10,11,MF,Philippe Coutinho,26,37,10,Barcelona,1992-06-12,1992,6,12,Brazil,E,Men
+10,15,MF,Paulinho,29,50,12,Barcelona,1988-07-25,1988,7,25,Brazil,E,Men
+10,5,MF,Casemiro,26,24,0,Real Madrid,1992-02-23,1992,2,23,Brazil,E,Men
+10,12,DF,Marcelo (captain),30,54,6,Real Madrid,1988-05-12,1988,5,12,Brazil,E,Men
+10,18,MF,Fred,25,8,0,Shakhtar Donetsk,1993-03-05,1993,3,5,Brazil,E,Men
+10,21,FW,Taison,30,8,1,Shakhtar Donetsk,1988-01-13,1988,1,13,Brazil,E,Men
+13,22,MF,Cristian Pavon,22,5,0,Boca Juniors,1996-01-21,1996,1,21,Argentina,D,Men
+13,13,MF,Maximiliano Meza,25,2,0,Independiente,1992-12-15,1992,12,15,Argentina,D,Men
+13,12,GK,Franco Armani,31,0,0,River Plate,1986-10-16,1986,10,16,Argentina,D,Men
+13,15,MF,Enzo Perez,32,23,1,River Plate,1986-02-22,1986,2,22,Argentina,D,Men
+13,14,DF,Javier Mascherano,34,143,3,Hebei China Fortune,1984-06-08,1984,6,8,Argentina,D,Men
+13,23,GK,Willy Caballero,36,3,0,Chelsea,1981-09-28,1981,9,28,Argentina,D,Men
+13,17,DF,Nicolas Otamendi,30,54,4,Manchester City,1988-02-12,1988,2,12,Argentina,D,Men
+13,19,FW,Sergio Aguero,30,85,37,Manchester City,1988-06-02,1988,6,2,Argentina,D,Men
+13,16,DF,Marcos Rojo,28,56,2,Manchester United,1990-03-20,1990,3,20,Argentina,D,Men
+13,11,MF,Angel Di María,30,94,19,Paris Saint-Germain,1988-02-14,1988,2,14,Argentina,D,Men
+13,20,MF,Giovani Lo Celso,22,5,0,Paris Saint-Germain,1996-04-09,1996,4,9,Argentina,D,Men
+13,9,FW,Gonzalo Higuain,30,71,31,Juventus,1987-12-10,1987,12,10,Argentina,D,Men
+13,21,FW,Paulo Dybala,24,12,0,Juventus,1993-11-15,1993,11,15,Argentina,D,Men
+13,5,MF,Lucas Biglia,32,57,1,Milan,1986-01-30,1986,1,30,Argentina,D,Men
+13,6,DF,Federico Fazio,31,9,1,Roma,1987-03-17,1987,3,17,Argentina,D,Men
+13,4,DF,Cristian Ansaldi,31,5,0,Torino,1986-09-20,1986,9,20,Argentina,D,Men
+13,1,GK,Nahuel Guzman,32,6,0,UANL,1986-02-10,1986,2,10,Argentina,D,Men
+13,3,DF,Nicolas Tagliafico,25,4,0,Ajax,1992-08-31,1992,8,31,Argentina,D,Men
+13,18,DF,Eduardo Salvio,27,9,0,Benfica,1990-07-13,1990,7,13,Argentina,D,Men
+13,8,DF,Marcos Acuna,26,10,0,Sporting CP,1991-10-28,1991,10,28,Argentina,D,Men
+13,10,FW,Lionel Messi (captain),30,124,64,Barcelona,1987-06-24,1987,6,24,Argentina,D,Men
+13,2,DF,Gabriel Mercado,31,20,3,Sevilla,1987-03-18,1987,3,18,Argentina,D,Men
+13,7,MF,Ever Banega,29,62,6,Sevilla,1988-06-29,1988,6,29,Argentina,D,Men
+14,14,FW,Danny Welbeck,27,39,16,Arsenal,1990-11-26,1990,11,26,England,G,Men
+14,23,GK,Nick Pope,26,1,0,Burnley,1992-04-19,1992,4,19,England,G,Men
+14,15,DF,Gary Cahill,32,60,5,Chelsea,1985-12-19,1985,12,19,England,G,Men
+14,21,MF,Ruben Loftus-Cheek,22,4,0,Crystal Palace,1996-01-23,1996,1,23,England,G,Men
+14,1,GK,Jordan Pickford,24,3,0,Everton,1994-03-07,1994,3,7,England,G,Men
+14,6,DF,Harry Maguire,25,5,0,Leicester City,1993-03-05,1993,3,5,England,G,Men
+14,11,FW,Jamie Vardy,31,22,7,Leicester City,1987-01-11,1987,1,11,England,G,Men
+14,8,MF,Jordan Henderson,27,39,0,Liverpool,1990-06-17,1990,6,17,England,G,Men
+14,22,DF,Trent Alexander-Arnold,19,1,0,Liverpool,1998-10-07,1998,10,7,England,G,Men
+14,2,DF,Kyle Walker,28,35,0,Manchester City,1990-05-28,1990,5,28,England,G,Men
+14,5,DF,John Stones,24,26,0,Manchester City,1994-05-28,1994,5,28,England,G,Men
+14,10,FW,Raheem Sterling,23,38,2,Manchester City,1994-12-08,1994,12,8,England,G,Men
+14,17,DF,Fabian Delph,28,11,0,Manchester City,1989-11-21,1989,11,21,England,G,Men
+14,7,MF,Jesse Lingard,25,12,1,Manchester United,1992-12-15,1992,12,15,England,G,Men
+14,16,DF,Phil Jones,26,25,0,Manchester United,1992-02-21,1992,2,21,England,G,Men
+14,18,DF,Ashley Young,32,34,7,Manchester United,1985-07-09,1985,7,9,England,G,Men
+14,19,FW,Marcus Rashford,20,19,3,Manchester United,1997-10-31,1997,10,31,England,G,Men
+14,13,GK,Jack Butland,25,8,0,Stoke City,1993-03-10,1993,3,10,England,G,Men
+14,3,DF,Danny Rose,27,18,0,Tottenham Hotspur,1990-07-02,1990,7,2,England,G,Men
+14,4,MF,Eric Dier,24,26,3,Tottenham Hotspur,1994-01-15,1994,1,15,England,G,Men
+14,9,FW,Harry Kane (captain),24,24,13,Tottenham Hotspur,1993-07-28,1993,7,28,England,G,Men
+14,12,DF,Kieran Trippier,27,7,0,Tottenham Hotspur,1990-09-19,1990,9,19,England,G,Men
+14,20,MF,Dele Alli,22,25,2,Tottenham Hotspur,1996-04-11,1996,4,11,England,G,Men
+15,9,FW,Shinji Okazaki,32,113,50,Leicester City,1986-04-16,1986,4,16,Japan,H,Men
+15,22,DF,Maya Yoshida,29,82,10,Southampton,1988-08-24,1988,8,24,Japan,H,Men
+15,19,DF,Hiroki Sakai,28,43,0,Marseille,1990-04-12,1990,4,12,Japan,H,Men
+15,1,GK,Eiji Kawashima,35,84,0,Metz,1983-03-20,1983,3,20,Japan,H,Men
+15,15,FW,Yuya Osako,28,29,7,1. FC Koln,1990-05-18,1990,5,18,Japan,H,Men
+15,10,MF,Shinji Kagawa,29,92,30,Borussia Dortmund,1989-03-17,1989,3,17,Japan,H,Men
+15,17,MF,Makoto Hasebe (captain),34,110,2,Eintracht Frankfurt,1984-01-18,1984,1,18,Japan,H,Men
+15,8,MF,Genki Haraguchi,27,33,6,Fortuna Dusseldorf,1991-05-09,1991,5,9,Japan,H,Men
+15,11,MF,Takashi Usami,26,24,3,Fortuna Dusseldorf,1992-05-06,1992,5,6,Japan,H,Men
+15,21,DF,Gotoku Sakai,27,41,0,Hamburger SV,1991-03-14,1991,3,14,Japan,H,Men
+15,13,FW,Yoshinori Muto,25,24,2,Mainz 05,1992-07-15,1992,7,15,Japan,H,Men
+15,16,MF,Hotaru Yamaguchi,27,42,2,Cerezo Osaka,1990-10-06,1990,10,6,Japan,H,Men
+15,12,GK,Masaaki Higashiguchi,32,5,0,Gamba Osaka,1986-05-12,1986,5,12,Japan,H,Men
+15,2,DF,Naomichi Ueda,23,4,0,Kashima Antlers,1994-10-24,1994,10,24,Japan,H,Men
+15,3,DF,Gen Shoji,25,11,1,Kashima Antlers,1992-12-11,1992,12,11,Japan,H,Men
+15,23,GK,Kosuke Nakamura,23,4,0,Kashiwa Reysol,1995-02-27,1995,2,27,Japan,H,Men
+15,18,MF,Ryota Oshima,25,5,0,Kawasaki Frontale,1993-01-23,1993,1,23,Japan,H,Men
+15,6,DF,Wataru Endo,25,12,0,Urawa Red Diamonds,1993-02-09,1993,2,9,Japan,H,Men
+15,20,DF,Tomoaki Makino,31,32,4,Urawa Red Diamonds,1987-05-11,1987,5,11,Japan,H,Men
+15,4,MF,Keisuke Honda,32,95,36,Pachuca,1986-06-13,1986,6,13,Japan,H,Men
+15,14,MF,Takashi Inui,30,27,4,Eibar,1988-06-02,1988,6,2,Japan,H,Men
+15,7,MF,Gaku Shibasaki,26,18,3,Getafe,1992-05-28,1992,5,28,Japan,H,Men
+15,5,DF,Yuto Nagatomo,31,105,3,Galatasaray,1986-09-12,1986,9,12,Japan,H,Men
+22,22,FW,Isaac Kiese Thelin,25,20,2,Waasland-Beveren,1992-06-24,1992,6,24,Sweden,F,Men
+22,1,GK,Robin Olsen,28,18,0,Copenhagen,1990-01-08,1990,1,8,Sweden,F,Men
+22,7,MF,Sebastian Larsson,33,100,6,Hull City,1985-06-06,1985,6,6,Sweden,F,Men
+22,18,DF,Pontus Jansson,27,15,0,Leeds United,1991-02-13,1991,2,13,Sweden,F,Men
+22,3,DF,Victor Lindelof,23,21,1,Manchester United,1994-07-17,1994,7,17,Sweden,F,Men
+22,12,GK,Karl-Johan Johnsson,28,5,0,Guingamp,1990-01-28,1990,1,28,Sweden,F,Men
+22,20,FW,Ola Toivonen,31,59,13,Toulouse,1986-07-03,1986,7,3,Sweden,F,Men
+22,21,MF,Jimmy Durmaz,29,45,3,Toulouse,1989-03-22,1989,3,22,Sweden,F,Men
+22,8,MF,Albin Ekdal,28,34,0,Hamburger SV,1989-07-28,1989,7,28,Sweden,F,Men
+22,10,MF,Emil Forsberg,26,36,6,RB Leipzig,1991-10-23,1991,10,23,Sweden,F,Men
+22,6,DF,Ludwig Augustinsson,24,15,0,Werder Bremen,1994-04-21,1994,4,21,Sweden,F,Men
+22,14,DF,Filip Helander,25,4,0,Bologna,1993-04-22,1993,4,22,Sweden,F,Men
+22,16,DF,Emil Krafth,23,13,0,Bologna,1994-08-02,1994,8,2,Sweden,F,Men
+22,19,MF,Marcus Rohden,27,12,1,Crotone,1991-05-11,1991,5,11,Sweden,F,Men
+22,15,MF,Oscar Hiljemark,25,22,2,Genoa,1992-06-28,1992,6,28,Sweden,F,Men
+22,4,DF,Andreas Granqvist (captain),33,72,6,Krasnodar,1985-04-16,1985,4,16,Sweden,F,Men
+22,17,MF,Viktor Claesson,26,22,3,Krasnodar,1992-01-02,1992,1,2,Sweden,F,Men
+22,2,DF,Mikael Lustig,31,66,6,Celtic,1986-12-13,1986,12,13,Sweden,F,Men
+22,11,FW,John Guidetti,26,20,1,Alaves,1992-04-15,1992,4,15,Sweden,F,Men
+22,9,FW,Marcus Berg,31,57,18,Al Ain,1986-08-17,1986,8,17,Sweden,F,Men
+22,13,MF,Gustav Svensson,31,13,0,Seattle Sounders FC,1987-02-07,1987,2,7,Sweden,F,Men
+22,5,DF,Martin Olsson,30,43,5,Swansea City,1988-05-17,1988,5,17,Sweden,F,Men
+22,23,GK,Kristoffer Nordfeldt,28,8,0,Swansea City,1989-06-23,1989,6,23,Sweden,F,Men
+25,7,DF,Ahmed Fathy,33,126,3,Al Ahly,1984-11-10,1984,11,10,Egypt,A,Men
+25,9,FW,Marwan Mohsen,29,24,4,Al Ahly,1989-02-26,1989,2,26,Egypt,A,Men
+25,12,DF,Ayman Ashraf,27,4,0,Al Ahly,1991-04-09,1991,4,9,Egypt,A,Men
+25,16,GK,Sherif Ekramy,34,22,0,Al Ahly,1983-07-10,1983,7,10,Egypt,A,Men
+25,20,DF,Saad Samir,29,11,0,Al Ahly,1989-04-01,1989,4,1,Egypt,A,Men
+25,23,GK,Mohamed El Shenawy,29,3,0,Al Ahly,1988-12-18,1988,12,18,Egypt,A,Men
+25,8,MF,Tarek Hamed,29,21,0,Zamalek,1988-10-24,1988,10,24,Egypt,A,Men
+25,15,DF,Mahmoud Hamdy,23,0,0,Zamalek,1995-06-01,1995,6,1,Egypt,A,Men
+25,17,MF,Mohamed Elneny,25,61,5,Arsenal,1992-07-11,1992,7,11,Egypt,A,Men
+25,3,DF,Ahmed Elmohamady,30,78,2,Aston Villa,1987-09-09,1987,9,9,Egypt,A,Men
+25,10,FW,Mohamed Salah,25,57,33,Liverpool,1992-06-15,1992,6,15,Egypt,A,Men
+25,14,FW,Ramadan Sobhi,21,23,1,Stoke City,1997-01-23,1997,1,23,Egypt,A,Men
+25,2,DF,Ali Gabr,29,21,1,West Bromwich Albion,1989-01-01,1989,1,1,Egypt,A,Men
+25,6,DF,Ahmed Hegazi,27,45,1,West Bromwich Albion,1991-01-25,1991,1,25,Egypt,A,Men
+25,5,MF,Sam Morsy,26,5,0,Wigan Athletic,1991-09-10,1991,9,10,Egypt,A,Men
+25,19,MF,Abdallah El Said,32,36,6,KuPS,1985-07-13,1985,7,13,Egypt,A,Men
+25,22,FW,Amr Warda,24,16,0,Atromitos,1993-09-17,1993,9,17,Egypt,A,Men
+25,13,DF,Mohamed Abdel Shafy,32,51,1,Al Fateh,1985-07-01,1985,7,1,Egypt,A,Men
+25,18,FW,Shikabala,32,29,2,Al Raed,1986-03-05,1986,3,5,Egypt,A,Men
+25,1,GK,Essam El Hadary (captain),45,158,0,Al Taawoun,1973-01-15,1973,1,15,Egypt,A,Men
+25,11,FW,Kahraba,24,19,3,Al-Ittihad,1994-04-13,1994,4,13,Egypt,A,Men
+25,21,MF,Trezeguet,23,24,2,Kasimpasa,1994-10-01,1994,10,1,Egypt,A,Men
+25,4,MF,Omar Gaber,26,24,0,Los Angeles FC,1992-01-30,1992,1,30,Egypt,A,Men
+26,20,GK,Vladimir Gabulov,34,10,0,Club Brugge,1983-10-19,1983,10,19,Russia,A,Men
+26,5,DF,Andrei Semyonov,29,6,0,Akhmat Grozny,1989-03-24,1989,3,24,Russia,A,Men
+26,22,FW,Artem Dzyuba,29,23,11,Arsenal Tula,1988-08-22,1988,8,22,Russia,A,Men
+26,1,GK,Igor Akinfeev (captain),32,106,0,CSKA Moscow,1986-04-08,1986,4,8,Russia,A,Men
+26,2,DF,Mario Fernandes,27,5,0,CSKA Moscow,1990-09-19,1990,9,19,Russia,A,Men
+26,4,DF,Sergei Ignashevich,38,122,8,CSKA Moscow,1979-07-14,1979,7,14,Russia,A,Men
+26,9,MF,Alan Dzagoev,27,57,9,CSKA Moscow,1990-06-17,1990,6,17,Russia,A,Men
+26,17,MF,Aleksandr Golovin,22,19,2,CSKA Moscow,1996-05-30,1996,5,30,Russia,A,Men
+26,8,MF,Yury Gazinsky,28,6,0,Krasnodar,1989-07-20,1989,7,20,Russia,A,Men
+26,10,FW,Fyodor Smolov,28,32,12,Krasnodar,1990-02-09,1990,2,9,Russia,A,Men
+26,15,MF,Aleksei Miranchuk,22,18,4,Lokomotiv Moscow,1995-10-17,1995,10,17,Russia,A,Men
+26,16,MF,Anton Miranchuk,22,6,0,Lokomotiv Moscow,1995-10-17,1995,10,17,Russia,A,Men
+26,13,DF,Fyodor Kudryashov,31,19,0,Rubin Kazan,1987-04-05,1987,4,5,Russia,A,Men
+26,14,DF,Vladimir Granat,31,12,1,Rubin Kazan,1987-05-22,1987,5,22,Russia,A,Men
+26,3,DF,Ilya Kutepov,24,7,0,Spartak Moscow,1993-07-29,1993,7,29,Russia,A,Men
+26,11,MF,Roman Zobnin,24,12,0,Spartak Moscow,1994-02-11,1994,2,11,Russia,A,Men
+26,19,MF,Aleksandr Samedov,33,48,7,Spartak Moscow,1984-07-19,1984,7,19,Russia,A,Men
+26,7,MF,Daler Kuzyayev,25,6,0,Zenit Saint Petersburg,1993-01-15,1993,1,15,Russia,A,Men
+26,12,GK,Andrey Lunyov,26,3,0,Zenit Saint Petersburg,1991-11-13,1991,11,13,Russia,A,Men
+26,18,MF,Yuri Zhirkov,34,84,2,Zenit Saint Petersburg,1983-08-20,1983,8,20,Russia,A,Men
+26,21,MF,Aleksandr Yerokhin,28,17,0,Zenit Saint Petersburg,1989-10-13,1989,10,13,Russia,A,Men
+26,23,DF,Igor Smolnikov,29,27,0,Zenit Saint Petersburg,1988-08-08,1988,8,8,Russia,A,Men
+26,6,MF,Denis Cheryshev,27,11,0,Villarreal,1990-12-26,1990,12,26,Russia,A,Men
+27,2,DF,Mansoor Al-Harbi,30,40,1,Al Ahli,1987-10-19,1987,10,19,Saudi Arabia,A,Men
+27,16,MF,Housain Al-Mogahwi,30,18,1,Al Ahli,1988-03-24,1988,3,24,Saudi Arabia,A,Men
+27,17,MF,Taisir Al-Jassim,33,132,19,Al Ahli,1984-07-25,1984,7,25,Saudi Arabia,A,Men
+27,20,FW,Muhannad Assiri,31,18,4,Al Ahli,1986-10-14,1986,10,14,Saudi Arabia,A,Men
+27,21,GK,Yasser Al-Mosailem,34,32,0,Al Ahli,1984-02-27,1984,2,27,Saudi Arabia,A,Men
+27,22,GK,Mohammed Al-Owais,26,6,0,Al Ahli,1991-10-10,1991,10,10,Saudi Arabia,A,Men
+27,23,DF,Motaz Hawsawi,26,17,0,Al Ahli,1992-02-17,1992,2,17,Saudi Arabia,A,Men
+27,1,GK,Abdullah Al-Mayouf (captain),31,11,0,Al Hilal,1987-01-23,1987,1,23,Saudi Arabia,A,Men
+27,3,DF,Osama Hawsawi,34,135,7,Al Hilal,1984-03-31,1984,3,31,Saudi Arabia,A,Men
+27,4,DF,Ali Al-Bulaihi,28,4,0,Al Hilal,1989-11-21,1989,11,21,Saudi Arabia,A,Men
+27,6,DF,Mohammed Al-Breik,25,11,1,Al Hilal,1992-09-15,1992,9,15,Saudi Arabia,A,Men
+27,7,MF,Salman Al-Faraj,28,43,3,Al Hilal,1989-08-01,1989,8,1,Saudi Arabia,A,Men
+27,11,MF,Abdulmalek Al-Khaibri,32,36,0,Al Hilal,1986-03-13,1986,3,13,Saudi Arabia,A,Men
+27,12,MF,Mohamed Kanno,23,6,1,Al Hilal,1994-09-22,1994,9,22,Saudi Arabia,A,Men
+27,13,DF,Yasser Al-Shahrani,26,37,0,Al Hilal,1992-05-25,1992,5,25,Saudi Arabia,A,Men
+27,14,MF,Abdullah Otayf,25,16,1,Al Hilal,1992-08-03,1992,8,3,Saudi Arabia,A,Men
+27,5,DF,Omar Hawsawi,32,42,3,Al Nassr,1985-09-27,1985,9,27,Saudi Arabia,A,Men
+27,10,FW,Mohammad Al-Sahlawi,31,40,28,Al Nassr,1987-01-10,1987,1,10,Saudi Arabia,A,Men
+27,9,MF,Hattan Bahebri,25,5,0,Al Shabab,1992-07-16,1992,7,16,Saudi Arabia,A,Men
+27,15,MF,Abdullah Al-Khaibari,21,5,0,Al Shabab,1996-08-16,1996,8,16,Saudi Arabia,A,Men
+27,8,MF,Yahya Al-Shehri,27,57,8,Leganes,1990-06-26,1990,6,26,Saudi Arabia,A,Men
+27,19,FW,Fahad Al-Muwallad,23,45,10,Levante,1994-09-14,1994,9,14,Saudi Arabia,A,Men
+27,18,MF,Salem Al-Dawsari,26,33,4,Villarreal,1991-08-19,1991,8,19,Saudi Arabia,A,Men
+28,8,MF,Nahitan Nandez,22,12,0,Boca Juniors,1995-12-28,1995,12,28,Uruguay,A,Men
+28,12,GK,Martin Campana,29,1,0,Independiente,1989-05-29,1989,5,29,Uruguay,A,Men
+28,13,DF,Gaston Silva,24,17,0,Independiente,1994-03-05,1994,3,5,Uruguay,A,Men
+28,10,FW,Giorgian De Arrascaeta,24,14,2,Cruzeiro,1994-06-01,1994,6,1,Uruguay,A,Men
+28,23,GK,Martin Silva,35,11,0,Vasco da Gama,1983-03-25,1983,3,25,Uruguay,A,Men
+28,21,FW,Edinson Cavani,31,101,42,Paris Saint-Germain,1987-02-14,1987,2,14,Uruguay,A,Men
+28,17,MF,Diego Laxalt,25,6,0,Genoa,1993-02-07,1993,2,7,Uruguay,A,Men
+28,15,MF,Matias Vecino,26,22,1,Inter Milan,1991-08-24,1991,8,24,Uruguay,A,Men
+28,6,MF,Rodrigo Bentancur,20,7,0,Juventus,1997-06-25,1997,6,25,Uruguay,A,Men
+28,22,DF,Martin Caceres,31,76,4,Lazio,1987-04-07,1987,4,7,Uruguay,A,Men
+28,14,MF,Lucas Torreira,22,3,0,Sampdoria,1996-02-11,1996,2,11,Uruguay,A,Men
+28,5,MF,Carlos Sanchez,33,36,1,Monterrey,1984-12-02,1984,12,2,Uruguay,A,Men
+28,20,FW,Jonathan Urretaviscaya,28,4,0,Monterrey,1990-03-19,1990,3,19,Uruguay,A,Men
+28,16,DF,Maxi Pereira,34,125,3,Porto,1984-06-08,1984,6,8,Uruguay,A,Men
+28,19,DF,Sebastian Coates,27,30,1,Sporting CP,1990-10-07,1990,10,7,Uruguay,A,Men
+28,2,DF,Jose Gimenez,23,42,5,Atletico Madrid,1995-01-20,1995,1,20,Uruguay,A,Men
+28,3,DF,Diego Godin (captain),32,116,8,Atletico Madrid,1986-02-16,1986,2,16,Uruguay,A,Men
+28,9,FW,Luis Suarez,31,98,51,Barcelona,1987-01-24,1987,1,24,Uruguay,A,Men
+28,18,FW,Maxi Gomez,21,5,0,Celta Vigo,1996-08-14,1996,8,14,Uruguay,A,Men
+28,11,FW,Cristhian Stuani,31,41,5,Girona,1986-10-12,1986,10,12,Uruguay,A,Men
+28,1,GK,Fernando Muslera,31,97,0,Galatasaray,1986-06-16,1986,6,16,Uruguay,A,Men
+28,4,DF,Guillermo Varela,25,3,0,Penarol,1993-03-24,1993,3,24,Uruguay,A,Men
+28,7,MF,Cristian Rodriguez,32,105,11,Penarol,1985-09-30,1985,9,30,Uruguay,A,Men
+29,23,DF,Ramin Rezaeian,28,28,2,Oostende,1990-03-21,1990,3,21,Iran,B,Men
+29,21,MF,Ashkan Dejagah,31,46,9,Nottingham Forest,1986-07-05,1986,7,5,Iran,B,Men
+29,7,MF,Masoud Shojaei (captain),34,74,8,AEK Athens,1984-06-09,1984,6,9,Iran,B,Men
+29,3,DF,Ehsan Hajsafi,28,94,6,Olympiacos,1990-02-25,1990,2,25,Iran,B,Men
+29,10,FW,Karim Ansarifard,28,64,17,Olympiacos,1990-04-03,1990,4,3,Iran,B,Men
+29,4,DF,Rouzbeh Cheshmi,24,10,1,Esteghlal,1993-07-24,1993,7,24,Iran,B,Men
+29,9,MF,Omid Ebrahimi,30,30,0,Esteghlal,1987-09-16,1987,9,16,Iran,B,Men
+29,15,DF,Pejman Montazeri,34,46,1,Esteghlal,1983-09-06,1983,9,6,Iran,B,Men
+29,19,DF,Majid Hosseini,21,1,0,Esteghlal,1996-06-20,1996,6,20,Iran,B,Men
+29,13,DF,Mohammad Reza Khanzadeh,27,11,1,Padideh,1991-05-11,1991,5,11,Iran,B,Men
+29,1,GK,Alireza Beiranvand,25,22,0,Persepolis,1992-09-21,1992,9,21,Iran,B,Men
+29,11,MF,Vahid Amiri,30,36,1,Persepolis,1988-04-02,1988,4,2,Iran,B,Men
+29,2,MF,Mehdi Torabi,23,17,4,Saipa,1994-09-10,1994,9,10,Iran,B,Men
+29,12,GK,Mohammad Rashid Mazaheri,29,3,0,Zob Ahan,1989-05-18,1989,5,18,Iran,B,Men
+29,18,FW,Alireza Jahanbakhsh,24,38,4,AZ,1993-08-11,1993,8,11,Iran,B,Men
+29,16,FW,Reza Ghoochannejhad,30,43,17,Heerenveen,1987-09-20,1987,9,20,Iran,B,Men
+29,22,GK,Amir Abedzadeh,25,1,0,Maritimo,1993-04-26,1993,4,26,Iran,B,Men
+29,8,DF,Morteza Pouraliganji,26,27,2,Al Sadd,1992-04-19,1992,4,19,Iran,B,Men
+29,17,FW,Mehdi Taremi,25,26,11,Al-Gharafa,1992-07-18,1992,7,18,Iran,B,Men
+29,5,DF,Milad Mohammadi,24,19,0,Akhmat Grozny,1993-09-29,1993,9,29,Iran,B,Men
+29,6,MF,Saeid Ezatolahi,21,25,1,Amkar Perm,1996-10-01,1996,10,1,Iran,B,Men
+29,20,FW,Sardar Azmoun,23,33,23,Rubin Kazan,1995-01-01,1995,1,1,Iran,B,Men
+29,14,FW,Saman Ghoddos,24,8,1,Ostersund,1993-09-06,1993,9,6,Iran,B,Men
+30,23,MF,Mehdi Carcela,28,20,1,Standard Liege,1989-07-01,1989,7,1,Morocco,B,Men
+30,6,DF,Romain Saiss,28,24,1,Wolverhampton Wanderers,1990-03-26,1990,3,26,Morocco,B,Men
+30,15,MF,Youssef Ait Bennasser,21,14,0,Caen,1996-07-07,1996,7,7,Morocco,B,Men
+30,3,DF,Hamza Mendyl,20,13,0,Lille,1997-10-21,1997,10,21,Morocco,B,Men
+30,20,FW,Aziz Bouhaddouz,31,15,3,FC St. Pauli,1987-03-30,1987,3,30,Morocco,B,Men
+30,18,MF,Amine Harit,20,6,0,Schalke 04,1997-06-18,1997,6,18,Morocco,B,Men
+30,5,DF,Medhi Benatia (captain),31,57,2,Juventus,1987-04-17,1987,4,17,Morocco,B,Men
+30,22,GK,Ahmed Reda Tagnaouti,22,2,0,IR Tanger,1996-04-05,1996,4,5,Morocco,B,Men
+30,9,FW,Ayoub El Kaabi,24,10,11,RS Berkane,1993-06-25,1993,6,25,Morocco,B,Men
+30,7,MF,Hakim Ziyech,25,18,9,Ajax,1993-03-19,1993,3,19,Morocco,B,Men
+30,8,MF,Karim El Ahmadi,33,51,1,Feyenoord,1985-01-27,1985,1,27,Morocco,B,Men
+30,21,MF,Sofyan Amrabat,21,6,0,Feyenoord,1996-08-21,1996,8,21,Morocco,B,Men
+30,11,MF,Faycal Fajr,29,23,2,Getafe,1988-08-01,1988,8,1,Morocco,B,Men
+30,1,GK,Yassine Bounou,27,11,0,Girona,1991-04-05,1991,4,5,Morocco,B,Men
+30,16,MF,Nordin Amrabat,31,44,4,Leganes,1987-03-31,1987,3,31,Morocco,B,Men
+30,19,FW,Youssef En-Nesyri,21,16,2,Malaga,1997-06-01,1997,6,1,Morocco,B,Men
+30,12,GK,Munir Mohamedi,29,27,0,Numancia,1989-05-10,1989,5,10,Morocco,B,Men
+30,2,DF,Achraf Hakimi,19,10,1,Real Madrid,1998-11-04,1998,11,4,Morocco,B,Men
+30,17,DF,Nabil Dirar,32,34,3,Fenerbahce,1986-02-25,1986,2,25,Morocco,B,Men
+30,10,MF,Younes Belhanda,28,47,5,Galatasaray,1990-02-25,1990,2,25,Morocco,B,Men
+30,4,DF,Manuel da Costa,32,28,1,Istanbul Basaksehir,1986-05-06,1986,5,6,Morocco,B,Men
+30,13,FW,Khalid Boutaib,31,18,7,Yeni Malatyaspor,1987-04-24,1987,4,24,Morocco,B,Men
+30,14,MF,Mbark Boussoufa,33,59,7,Al Jazira,1984-08-15,1984,8,15,Morocco,B,Men
+31,6,DF,Jose Fonte,34,31,0,Dalian Yifang,1983-12-22,1983,12,22,Portugal,B,Men
+31,23,MF,Adrien Silva,29,23,1,Leicester City,1989-03-15,1989,3,15,Portugal,B,Men
+31,11,MF,Bernardo Silva,23,25,2,Manchester City,1994-08-10,1994,8,10,Portugal,B,Men
+31,21,DF,Cedric,26,29,1,Southampton,1991-08-31,1991,8,31,Portugal,B,Men
+31,10,MF,Joao Mario,25,36,2,West Ham United,1993-01-19,1993,1,19,Portugal,B,Men
+31,12,GK,Anthony Lopes,27,7,0,Lyon,1990-10-01,1990,10,1,Portugal,B,Men
+31,8,MF,Joao Moutinho,31,110,7,Monaco,1986-09-08,1986,9,8,Portugal,B,Men
+31,5,DF,Raphael Guerreiro,24,24,2,Borussia Dortmund,1993-12-22,1993,12,22,Portugal,B,Men
+31,9,FW,Andre Silva,22,23,12,Milan,1995-11-06,1995,11,6,Portugal,B,Men
+31,19,DF,Mario Rui,27,4,0,Napoli,1991-05-27,1991,5,27,Portugal,B,Men
+31,13,DF,Ruben Dias,21,1,0,Benfica,1997-05-14,1997,5,14,Portugal,B,Men
+31,15,DF,Ricardo Pereira,24,4,0,Porto,1993-10-06,1993,10,6,Portugal,B,Men
+31,1,GK,Rui Patricio,30,69,0,Sporting CP,1988-02-15,1988,2,15,Portugal,B,Men
+31,14,MF,William Carvalho,26,43,2,Sporting CP,1992-04-07,1992,4,7,Portugal,B,Men
+31,16,MF,Bruno Fernandes,23,6,1,Sporting CP,1994-09-08,1994,9,8,Portugal,B,Men
+31,18,FW,Gelson Martins,23,18,0,Sporting CP,1995-05-11,1995,5,11,Portugal,B,Men
+31,4,MF,Manuel Fernandes,32,14,3,Lokomotiv Moscow,1986-02-05,1986,2,5,Portugal,B,Men
+31,2,DF,Bruno Alves,36,96,11,Rangers,1981-11-27,1981,11,27,Portugal,B,Men
+31,7,FW,Cristiano Ronaldo (captain),33,150,81,Real Madrid,1985-02-05,1985,2,5,Portugal,B,Men
+31,17,FW,Goncalo Guedes,21,10,3,Valencia,1996-11-29,1996,11,29,Portugal,B,Men
+31,3,DF,Pepe,35,95,5,Besiktas,1983-02-26,1983,2,26,Portugal,B,Men
+31,20,FW,Ricardo Quaresma,34,77,9,Besiktas,1983-09-26,1983,9,26,Portugal,B,Men
+31,22,GK,Beto,36,14,0,Goztepe,1982-05-01,1982,5,1,Portugal,B,Men
+32,22,GK,Frederik Ronnow,25,6,0,Brondby,1992-08-04,1992,8,4,Denmark,C,Men
+32,7,MF,William Kvist,33,80,2,Copenhagen,1985-02-24,1985,2,24,Denmark,C,Men
+32,15,FW,Viktor Fischer,24,19,3,Copenhagen,1994-06-09,1994,6,9,Denmark,C,Men
+32,14,DF,Henrik Dalsgaard,28,11,0,Brentford,1989-07-27,1989,7,27,Denmark,C,Men
+32,6,DF,Andreas Christensen,22,16,1,Chelsea,1996-04-10,1996,4,10,Denmark,C,Men
+32,13,DF,Mathias Jorgensen,28,12,0,Huddersfield Town,1990-04-23,1990,4,23,Denmark,C,Men
+32,16,GK,Jonas Lossl,29,1,0,Huddersfield Town,1989-02-01,1989,2,1,Denmark,C,Men
+32,5,DF,Jonas Knudsen,25,3,0,Ipswich Town,1992-09-16,1992,9,16,Denmark,C,Men
+32,1,GK,Kasper Schmeichel,31,35,0,Leicester City,1986-11-05,1986,11,5,Denmark,C,Men
+32,10,MF,Christian Eriksen,26,78,22,Tottenham Hotspur,1992-02-14,1992,2,14,Denmark,C,Men
+32,11,FW,Martin Braithwaite,27,20,1,Bordeaux,1991-06-05,1991,6,5,Denmark,C,Men
+32,18,MF,Lukas Lerager,24,4,0,Bordeaux,1993-07-12,1993,7,12,Denmark,C,Men
+32,3,DF,Jannik Vestergaard,25,16,1,Borussia Monchengladbach,1992-08-03,1992,8,3,Denmark,C,Men
+32,20,FW,Yussuf Poulsen,23,28,4,RB Leipzig,1994-06-15,1994,6,15,Denmark,C,Men
+32,8,MF,Thomas Delaney,26,27,4,Werder Bremen,1991-09-03,1991,9,3,Denmark,C,Men
+32,21,FW,Andreas Cornelius,25,18,4,Atalanta,1993-03-16,1993,3,16,Denmark,C,Men
+32,17,DF,Jens Stryger Larsen,27,13,1,Udinese,1991-02-21,1991,2,21,Denmark,C,Men
+32,12,FW,Kasper Dolberg,20,6,1,Ajax,1997-10-06,1997,10,6,Denmark,C,Men
+32,19,MF,Lasse Schone,32,36,3,Ajax,1986-05-27,1986,5,27,Denmark,C,Men
+32,9,FW,Nicolai Jorgensen,27,31,8,Feyenoord,1991-01-15,1991,1,15,Denmark,C,Men
+32,23,FW,Pione Sisto,23,14,1,Celta Vigo,1995-02-04,1995,2,4,Denmark,C,Men
+32,2,MF,Michael Krohn-Dehli,35,59,6,Deportivo La Coruna,1983-06-06,1983,6,6,Denmark,C,Men
+32,4,DF,Simon Kjaer (captain),29,78,3,Sevilla,1989-03-26,1989,3,26,Denmark,C,Men
+33,6,DF,Miguel Trauco,25,27,0,Flamengo,1992-08-25,1992,8,25,Peru,C,Men
+33,9,FW,Paolo Guerrero (captain),34,88,34,Flamengo,1984-01-01,1984,1,1,Peru,C,Men
+33,8,MF,Christian Cueva,26,46,8,Sao Paulo,1991-11-23,1991,11,23,Peru,C,Men
+33,2,DF,Alberto Rodriguez,34,74,0,Atletico Junior,1984-03-31,1984,3,31,Peru,C,Men
+33,20,FW,Edison Flores,24,30,9,AaB,1994-05-14,1994,5,14,Peru,C,Men
+33,18,FW,Andre Carrillo,27,46,5,Watford,1991-06-14,1991,6,14,Peru,C,Men
+33,17,DF,Luis Advincula,28,67,0,Lobos BUAP,1990-03-02,1990,3,2,Peru,C,Men
+33,23,MF,Pedro Aquino,23,14,0,Lobos BUAP,1995-04-13,1995,4,13,Peru,C,Men
+33,11,FW,Raul Ruidiaz,27,30,4,Morelia,1990-07-25,1990,7,25,Peru,C,Men
+33,4,DF,Anderson Santamaria,26,4,0,Puebla,1992-01-10,1992,1,10,Peru,C,Men
+33,1,GK,Pedro Gallese,28,38,0,Veracruz,1990-02-23,1990,2,23,Peru,C,Men
+33,15,DF,Christian Ramos,29,68,3,Veracruz,1988-11-04,1988,11,4,Peru,C,Men
+33,16,MF,Wilder Cartagena,23,3,0,Veracruz,1994-09-23,1994,9,23,Peru,C,Men
+33,13,MF,Renato Tapia,22,33,3,Feyenoord,1995-07-28,1995,7,28,Peru,C,Men
+33,5,DF,Miguel Araujo,23,8,0,Alianza Lima,1994-10-24,1994,10,24,Peru,C,Men
+33,12,GK,Carlos Caceda,26,6,0,Deportivo Municipal,1991-09-27,1991,9,27,Peru,C,Men
+33,22,DF,Nilson Loyola,23,3,0,Melgar,1994-10-26,1994,10,26,Peru,C,Men
+33,3,DF,Aldo Corzo,29,26,0,Universitario,1989-05-20,1989,5,20,Peru,C,Men
+33,21,GK,Jose Carvallo,32,6,0,UTC,1986-03-01,1986,3,1,Peru,C,Men
+33,7,MF,Paolo Hurtado,27,33,3,Vitoria de Guimaraes,1990-07-27,1990,7,27,Peru,C,Men
+33,10,FW,Jefferson Farfan,33,84,25,Lokomotiv Moscow,1984-10-26,1984,10,26,Peru,C,Men
+33,19,MF,Yoshimar Yotun,28,74,2,Orlando City,1990-04-07,1990,4,7,Peru,C,Men
+33,14,MF,Andy Polo,23,17,1,Portland Timbers,1994-09-29,1994,9,29,Peru,C,Men
+34,15,DF,Duje Caleta-Car,21,1,0,Red Bull Salzburg,1996-09-17,1996,9,17,Croatia,D,Men
+34,12,GK,Lovre Kalinic,28,11,0,Gent,1990-04-03,1990,4,3,Croatia,D,Men
+34,1,GK,Dominik Livakovic,23,1,0,Dinamo Zagreb,1995-01-09,1995,1,9,Croatia,D,Men
+34,14,MF,Filip Bradaric,26,4,0,Rijeka,1992-01-11,1992,1,11,Croatia,D,Men
+34,6,DF,Dejan Lovren,28,39,2,Liverpool,1989-07-05,1989,7,5,Croatia,D,Men
+34,23,GK,Danijel Subasic,33,38,0,Monaco,1984-10-27,1984,10,27,Croatia,D,Men
+34,9,FW,Andrej Kramaric,26,31,9,1899 Hoffenheim,1991-06-19,1991,6,19,Croatia,D,Men
+34,13,DF,Tin Jedvaj,22,12,0,Bayer Leverkusen,1995-11-28,1995,11,28,Croatia,D,Men
+34,18,FW,Ante Rebic,24,16,1,Eintracht Frankfurt,1993-09-21,1993,9,21,Croatia,D,Men
+34,20,FW,Marko Pjaca,23,16,1,Schalke 04,1995-05-06,1995,5,6,Croatia,D,Men
+34,19,MF,Milan Badelj,29,38,1,Fiorentina,1989-02-25,1989,2,25,Croatia,D,Men
+34,4,FW,Ivan Perisic,29,66,18,Inter Milan,1989-02-02,1989,2,2,Croatia,D,Men
+34,11,MF,Marcelo Brozovic,25,35,6,Inter Milan,1992-11-16,1992,11,16,Croatia,D,Men
+34,17,FW,Mario Mandzukic,32,83,30,Juventus,1986-05-21,1986,5,21,Croatia,D,Men
+34,16,FW,Nikola Kalinic,30,42,15,Milan,1988-01-05,1988,1,5,Croatia,D,Men
+34,3,DF,Ivan Strinic,30,43,0,Sampdoria,1987-07-17,1987,7,17,Croatia,D,Men
+34,5,DF,Vedran Corluka,32,99,4,Lokomotiv Moscow,1986-02-05,1986,2,5,Croatia,D,Men
+34,2,DF,Sime Vrsaljko,26,35,0,Atletico Madrid,1992-01-10,1992,1,10,Croatia,D,Men
+34,7,MF,Ivan Rakitic,30,92,14,Barcelona,1988-03-10,1988,3,10,Croatia,D,Men
+34,8,MF,Mateo Kovacic,24,41,1,Real Madrid,1994-05-06,1994,5,6,Croatia,D,Men
+34,10,MF,Luka Modric (captain),32,106,12,Real Madrid,1985-09-09,1985,9,9,Croatia,D,Men
+34,21,DF,Domagoj Vida,29,59,2,Besiktas,1989-04-29,1989,4,29,Croatia,D,Men
+34,22,DF,Josip Pivaric,29,19,0,Dynamo Kyiv,1989-01-30,1989,1,30,Croatia,D,Men
+35,23,DF,Ari Freyr Skulason,31,56,0,Lokeren,1987-05-14,1987,5,14,Iceland,D,Men
+35,15,DF,Holmar Orn Eyjolfsson,27,10,1,Levski Sofia,1990-08-06,1990,8,6,Iceland,D,Men
+35,13,GK,Runar Alex Runarsson,23,3,0,Nordsjaelland,1995-02-18,1995,2,18,Iceland,D,Men
+35,1,GK,Hannes Thor Halldorsson,34,49,0,Randers,1984-04-27,1984,4,27,Iceland,D,Men
+35,12,GK,Frederik Schram,23,4,0,Roskilde,1995-01-19,1995,1,19,Iceland,D,Men
+35,8,MF,Birkir Bjarnason,30,67,9,Aston Villa,1988-05-27,1988,5,27,Iceland,D,Men
+35,18,DF,Horour Bjorgvin Magnusson,25,16,2,Bristol City,1993-02-11,1993,2,11,Iceland,D,Men
+35,7,MF,Johann Berg Guomundsson,27,67,7,Burnley,1990-10-27,1990,10,27,Iceland,D,Men
+35,10,MF,Gylfi Sigurosson,28,57,19,Everton,1989-09-08,1989,9,8,Iceland,D,Men
+35,22,FW,Jon Daoi Boovarsson,26,38,2,Reading,1992-05-25,1992,5,25,Iceland,D,Men
+35,11,FW,Alfreo Finnbogason,29,47,13,FC Augsburg,1989-02-01,1989,2,1,Iceland,D,Men
+35,19,MF,Rurik Gislason,30,47,3,SV Sandhausen,1988-02-25,1988,2,25,Iceland,D,Men
+35,2,DF,Birkir Mar Saevarsson,33,79,1,Valur,1984-11-11,1984,11,11,Iceland,D,Men
+35,20,MF,Emil Hallfreosson,33,64,1,Udinese,1984-06-29,1984,6,29,Iceland,D,Men
+35,4,MF,Albert Guomundsson,20,5,3,PSV,1997-06-15,1997,6,15,Iceland,D,Men
+35,3,MF,Samuel Friojonsson,22,4,0,Valerenga,1996-02-22,1996,2,22,Iceland,D,Men
+35,5,DF,Sverrir Ingi Ingason,24,20,3,Rostov,1993-08-05,1993,8,5,Iceland,D,Men
+35,6,DF,Ragnar Sigurosson,31,77,3,Rostov,1986-06-19,1986,6,19,Iceland,D,Men
+35,9,FW,Bjorn Bergmann Siguroarson,27,12,1,Rostov,1991-02-26,1991,2,26,Iceland,D,Men
+35,14,DF,Kari Arnason,35,67,5,Aberdeen,1982-10-13,1982,10,13,Iceland,D,Men
+35,21,MF,Arnor Ingvi Traustason,25,19,5,Malmo FF,1993-04-30,1993,4,30,Iceland,D,Men
+35,16,MF,Olafur Ingi Skulason,35,36,1,Kardemir Karabukspor,1983-04-01,1983,4,1,Iceland,D,Men
+35,17,MF,Aron Gunnarsson (captain),29,77,2,Cardiff City,1989-04-22,1989,4,22,Iceland,D,Men
+36,19,DF,Kendall Waston,30,26,3,Vancouver Whitecaps FC,1988-01-01,1988,1,1,Costa Rica,E,Men
+36,2,DF,Jhonny Acosta,34,69,2,Aguilas Doradas,1983-07-21,1983,7,21,Costa Rica,E,Men
+36,18,GK,Patrick Pemberton,36,39,0,Alajuelense,1982-04-24,1982,4,24,Costa Rica,E,Men
+36,22,DF,Kenner Gutierrez,29,9,0,Alajuelense,1989-06-09,1989,6,9,Costa Rica,E,Men
+36,14,MF,Randall Azofeifa,33,58,3,Herediano,1984-12-30,1984,12,30,Costa Rica,E,Men
+36,23,GK,Leonel Moreira,28,9,0,Herediano,1990-04-02,1990,4,2,Costa Rica,E,Men
+36,7,MF,Christian Bolanos,34,81,6,Saprissa,1984-05-17,1984,5,17,Costa Rica,E,Men
+36,9,MF,Daniel Colindres,33,11,0,Saprissa,1985-01-10,1985,1,10,Costa Rica,E,Men
+36,11,FW,Johan Venegas,29,47,10,Saprissa,1988-11-27,1988,11,27,Costa Rica,E,Men
+36,8,DF,Bryan Oviedo,28,44,1,Sunderland,1990-02-18,1990,2,18,Costa Rica,E,Men
+36,3,DF,Giancarlo Gonzalez,30,70,2,Bologna,1988-02-08,1988,2,8,Costa Rica,E,Men
+36,10,MF,Bryan Ruiz (captain),32,110,24,Sporting CP,1985-08-18,1985,8,18,Costa Rica,E,Men
+36,16,DF,Cristian Gamboa,28,68,3,Celtic,1989-10-24,1989,10,24,Costa Rica,E,Men
+36,5,MF,Celso Borges,30,113,21,Deportivo La Coruna,1988-05-27,1988,5,27,Costa Rica,E,Men
+36,6,DF,Oscar Duarte,29,39,2,Espanyol,1989-06-03,1989,6,3,Costa Rica,E,Men
+36,12,FW,Joel Campbell,25,77,15,Real Betis,1992-06-26,1992,6,26,Costa Rica,E,Men
+36,1,GK,Keylor Navas,31,81,0,Real Madrid,1986-12-15,1986,12,15,Costa Rica,E,Men
+36,4,DF,Ian Smith,20,4,0,Norrkoping,1998-03-06,1998,3,6,Costa Rica,E,Men
+36,17,MF,Yeltsin Tejeda,26,51,0,Lausanne,1992-03-17,1992,3,17,Costa Rica,E,Men
+36,21,FW,Marco Urena,28,64,15,Los Angeles FC,1990-03-05,1990,3,5,Costa Rica,E,Men
+36,15,DF,Francisco Calvo,25,38,4,Minnesota United,1992-07-08,1992,7,8,Costa Rica,E,Men
+36,13,MF,Rodney Wallace,29,30,4,New York City FC,1988-06-17,1988,6,17,Costa Rica,E,Men
+36,20,MF,David Guzman,28,43,0,Portland Timbers,1990-02-18,1990,2,18,Costa Rica,E,Men
+37,5,DF,Uros Spajic,25,5,0,Anderlecht,1993-02-13,1993,2,13,Serbia,E,Men
+37,4,MF,Luka Milivojevic,27,28,1,Crystal Palace,1991-04-07,1991,4,7,Serbia,E,Men
+37,9,FW,Aleksandar Mitrovic,23,37,16,Fulham,1994-09-16,1994,9,16,Serbia,E,Men
+37,21,MF,Nemanja Matic,29,40,2,Manchester United,1988-08-01,1988,8,1,Serbia,E,Men
+37,10,MF,Dusan Tadic,29,53,13,Southampton,1988-11-20,1988,11,20,Serbia,E,Men
+37,19,FW,Luka Jovic,20,1,0,Eintracht Frankfurt,1997-12-23,1997,12,23,Serbia,E,Men
+37,17,MF,Filip Kostic,25,23,2,Hamburger SV,1992-11-01,1992,11,1,Serbia,E,Men
+37,13,DF,Milos Veljkovic,22,2,0,Werder Bremen,1995-09-26,1995,9,26,Serbia,E,Men
+37,8,FW,Aleksandar Prijovic,28,9,1,PAOK,1990-04-21,1990,4,21,Serbia,E,Men
+37,12,GK,Predrag Rajkovic,22,8,0,Maccabi Tel Aviv,1995-10-31,1995,10,31,Serbia,E,Men
+37,15,DF,Nikola Milenkovic,20,3,0,Fiorentina,1997-10-12,1997,10,12,Serbia,E,Men
+37,20,MF,Sergej Milinkovic-Savic,23,4,0,Lazio,1995-02-27,1995,2,27,Serbia,E,Men
+37,11,DF,Aleksandar Kolarov (captain),32,76,10,Roma,1985-11-10,1985,11,10,Serbia,E,Men
+37,22,MF,Adem Ljajic,26,29,6,Torino,1991-09-29,1991,9,29,Serbia,E,Men
+37,7,MF,Andrija Zivkovic,21,10,0,Benfica,1996-07-11,1996,7,11,Serbia,E,Men
+37,6,DF,Branislav Ivanovic,34,103,13,Zenit Saint Petersburg,1984-02-22,1984,2,22,Serbia,E,Men
+37,1,GK,Vladimir Stojkovic,34,81,0,Partizan,1983-07-28,1983,7,28,Serbia,E,Men
+37,14,DF,Milan Rodic,27,1,0,Red Star Belgrade,1991-04-02,1991,4,2,Serbia,E,Men
+37,18,FW,Nemanja Radonjic,22,3,0,Red Star Belgrade,1996-02-15,1996,2,15,Serbia,E,Men
+37,23,GK,Marko Dmitrovic,26,2,0,Eibar,1992-01-24,1992,1,24,Serbia,E,Men
+37,2,DF,Antonio Rukavina,34,47,0,Villarreal,1984-01-26,1984,1,26,Serbia,E,Men
+37,3,DF,Dusko Tosic,33,24,1,Besiktas,1985-01-19,1985,1,19,Serbia,E,Men
+37,16,MF,Marko Grujic,22,8,0,Cardiff City,1996-04-13,1996,4,13,Serbia,E,Men
+38,18,FW,Mario Gavranovic,28,14,5,Dinamo Zagreb,1989-11-24,1989,11,24,Switzerland,E,Men
+38,10,MF,Granit Xhaka,25,62,9,Arsenal,1992-09-27,1992,9,27,Switzerland,E,Men
+38,23,MF,Xherdan Shaqiri,26,70,20,Stoke City,1991-10-10,1991,10,10,Switzerland,E,Men
+38,3,DF,Francois Moubandje,27,18,0,Toulouse,1990-06-21,1990,6,21,Switzerland,E,Men
+38,14,MF,Steven Zuber,26,12,3,1899 Hoffenheim,1991-08-17,1991,8,17,Switzerland,E,Men
+38,5,DF,Manuel Akanji,22,7,0,Borussia Dortmund,1995-07-19,1995,7,19,Switzerland,E,Men
+38,21,GK,Roman Burki,27,9,0,Borussia Dortmund,1990-11-14,1990,11,14,Switzerland,E,Men
+38,1,GK,Yann Sommer,29,35,0,Borussia Monchengladbach,1988-12-17,1988,12,17,Switzerland,E,Men
+38,4,DF,Nico Elvedi,21,6,0,Borussia Monchengladbach,1996-09-30,1996,9,30,Switzerland,E,Men
+38,17,MF,Denis Zakaria,21,10,0,Borussia Monchengladbach,1996-11-20,1996,11,20,Switzerland,E,Men
+38,19,FW,Josip Drmic,25,29,9,Borussia Monchengladbach,1992-08-08,1992,8,8,Switzerland,E,Men
+38,16,MF,Gelson Fernandes,31,67,2,Eintracht Frankfurt,1986-09-02,1986,9,2,Switzerland,E,Men
+38,12,GK,Yvon Mvogo,24,0,0,RB Leipzig,1994-06-06,1994,6,6,Switzerland,E,Men
+38,7,FW,Breel Embolo,21,25,3,Schalke 04,1997-02-14,1997,2,14,Switzerland,E,Men
+38,8,MF,Remo Freuler,26,10,0,Atalanta,1992-04-15,1992,4,15,Switzerland,E,Men
+38,15,MF,Blerim Dzemaili,32,65,9,Bologna,1986-04-12,1986,4,12,Switzerland,E,Men
+38,2,DF,Stephan Lichtsteiner (captain),34,100,8,Juventus,1984-01-16,1984,1,16,Switzerland,E,Men
+38,13,DF,Ricardo Rodriguez,25,53,5,Milan,1992-08-25,1992,8,25,Switzerland,E,Men
+38,11,MF,Valon Behrami,33,79,2,Udinese,1985-04-19,1985,4,19,Switzerland,E,Men
+38,9,FW,Haris Seferovic,26,51,12,Benfica,1992-02-22,1992,2,22,Switzerland,E,Men
+38,22,DF,Fabian Schar,26,39,7,Deportivo La Coruna,1991-12-20,1991,12,20,Switzerland,E,Men
+38,6,DF,Michael Lang,27,24,2,Basel,1991-02-08,1991,2,8,Switzerland,E,Men
+38,20,DF,Johan Djourou,31,74,2,Alanyaspor,1987-01-18,1987,1,18,Switzerland,E,Men
+39,13,GK,Guillermo Ochoa,32,94,0,Standard Liege,1985-07-13,1985,7,13,Mexico,F,Men
+39,14,FW,Javier Hernandez,30,102,49,West Ham United,1988-06-01,1988,6,1,Mexico,F,Men
+39,3,DF,Carlos Salcedo,24,21,0,Eintracht Frankfurt,1993-09-29,1993,9,29,Mexico,F,Men
+39,8,FW,Marco Fabian,28,39,9,Eintracht Frankfurt,1989-07-21,1989,7,21,Mexico,F,Men
+39,19,FW,Oribe Peralta,34,67,26,America,1984-01-12,1984,1,12,Mexico,F,Men
+39,21,DF,Edson Alvarez,20,13,1,America,1997-10-24,1997,10,24,Mexico,F,Men
+39,4,DF,Rafael Marquez (captain),39,145,18,Atlas,1979-02-13,1979,2,13,Mexico,F,Men
+39,1,GK,Jose de Jesus Corona,37,52,0,Cruz Azul,1981-01-26,1981,1,26,Mexico,F,Men
+39,5,MF,Erick Gutierrez,22,9,0,Pachuca,1995-06-15,1995,6,15,Mexico,F,Men
+39,12,GK,Alfredo Talavera,35,27,0,Toluca,1982-09-18,1982,9,18,Mexico,F,Men
+39,2,DF,Hugo Ayala,31,43,1,UANL,1987-03-31,1987,3,31,Mexico,F,Men
+39,20,MF,Javier Aquino,28,53,0,UANL,1990-02-11,1990,2,11,Mexico,F,Men
+39,23,MF,Jesus Gallardo,23,23,0,UNAM,1994-08-15,1994,8,15,Mexico,F,Men
+39,22,FW,Hirving Lozano,22,28,7,PSV,1995-07-30,1995,7,30,Mexico,F,Men
+39,9,FW,Raul Jimenez,27,63,13,Benfica,1991-05-05,1991,5,5,Mexico,F,Men
+39,16,DF,Hector Herrera,28,66,5,Porto,1990-04-19,1990,4,19,Mexico,F,Men
+39,17,MF,Jesus Manuel Corona,25,36,7,Porto,1993-01-06,1993,1,6,Mexico,F,Men
+39,18,MF,Andres Guardado,31,145,25,Real Betis,1986-09-28,1986,9,28,Mexico,F,Men
+39,15,DF,Hector Moreno,30,92,3,Real Sociedad,1988-01-17,1988,1,17,Mexico,F,Men
+39,7,MF,Miguel Layun,29,64,6,Sevilla,1988-06-25,1988,6,25,Mexico,F,Men
+39,6,MF,Jonathan dos Santos,28,32,0,LA Galaxy,1990-04-26,1990,4,26,Mexico,F,Men
+39,10,MF,Giovani dos Santos,29,105,19,LA Galaxy,1989-05-11,1989,5,11,Mexico,F,Men
+39,11,FW,Carlos Vela,29,68,18,Los Angeles FC,1989-03-01,1989,3,1,Mexico,F,Men
+40,23,DF,Leander Dendoncker,23,5,0,Anderlecht,1995-04-15,1995,4,15,Belgium,G,Men
+40,11,MF,Yannick Carrasco,24,26,5,Dalian Yifang,1993-09-04,1993,9,4,Belgium,G,Men
+40,6,MF,Axel Witsel,29,90,9,Tianjin Quanjian,1989-01-12,1989,1,12,Belgium,G,Men
+40,1,GK,Thibaut Courtois,26,58,0,Chelsea,1992-05-11,1992,5,11,Belgium,G,Men
+40,10,FW,Eden Hazard (captain),27,86,22,Chelsea,1991-01-07,1991,1,7,Belgium,G,Men
+40,12,GK,Simon Mignolet,30,21,0,Liverpool,1988-03-06,1988,3,6,Belgium,G,Men
+40,4,DF,Vincent Kompany,32,77,4,Manchester City,1986-04-10,1986,4,10,Belgium,G,Men
+40,7,MF,Kevin De Bruyne,26,62,14,Manchester City,1991-06-28,1991,6,28,Belgium,G,Men
+40,8,MF,Marouane Fellaini,30,82,17,Manchester United,1987-11-22,1987,11,22,Belgium,G,Men
+40,9,FW,Romelu Lukaku,25,69,36,Manchester United,1993-05-13,1993,5,13,Belgium,G,Men
+40,2,DF,Toby Alderweireld,29,77,3,Tottenham Hotspur,1989-03-02,1989,3,2,Belgium,G,Men
+40,5,DF,Jan Vertonghen,31,102,8,Tottenham Hotspur,1987-04-24,1987,4,24,Belgium,G,Men
+40,19,MF,Mousa Dembele,30,76,5,Tottenham Hotspur,1987-07-16,1987,7,16,Belgium,G,Men
+40,22,MF,Nacer Chadli,28,45,5,West Bromwich Albion,1989-08-02,1989,8,2,Belgium,G,Men
+40,17,MF,Youri Tielemans,21,9,0,Monaco,1997-05-07,1997,5,7,Belgium,G,Men
+40,15,DF,Thomas Meunier,26,25,5,Paris Saint-Germain,1991-09-12,1991,9,12,Belgium,G,Men
+40,21,FW,Michy Batshuayi,24,16,7,Borussia Dortmund,1993-10-02,1993,10,2,Belgium,G,Men
+40,16,MF,Thorgan Hazard,25,11,1,Borussia Monchengladbach,1993-03-29,1993,3,29,Belgium,G,Men
+40,13,GK,Koen Casteels,25,0,0,VfL Wolfsburg,1992-06-25,1992,6,25,Belgium,G,Men
+40,14,FW,Dries Mertens,31,69,14,Napoli,1987-05-06,1987,5,6,Belgium,G,Men
+40,20,DF,Dedryck Boyata,27,7,0,Celtic,1990-11-28,1990,11,28,Belgium,G,Men
+40,3,DF,Thomas Vermaelen,32,66,1,Barcelona,1985-11-14,1985,11,14,Belgium,G,Men
+40,18,FW,Adnan Januzaj,23,8,0,Real Sociedad,1995-02-05,1995,2,5,Belgium,G,Men
+41,19,MF,Ricardo Avila,21,5,0,Gent,1997-02-04,1997,2,4,Panama,G,Men
+41,21,MF,Jose Luis Rodriguez,19,2,0,Gent,1998-06-19,1998,6,19,Panama,G,Men
+41,9,FW,Gabriel Torres,29,72,14,Huachipato,1988-10-31,1988,10,31,Panama,G,Men
+41,11,MF,Armando Cooper,30,98,7,Universidad de Chile,1987-11-26,1987,11,26,Panama,G,Men
+41,6,MF,Gabriel Gomez,34,144,12,Atletico Bucaramanga,1984-05-29,1984,5,29,Panama,G,Men
+41,16,FW,Abdiel Arroyo,24,33,5,Alajuelense,1993-12-13,1993,12,13,Panama,G,Men
+41,7,FW,Blas Perez,37,118,43,Municipal,1981-03-13,1981,3,13,Panama,G,Men
+41,23,DF,Felipe Baloy (captain),37,102,3,Municipal,1981-02-24,1981,2,24,Panama,G,Men
+41,17,DF,Luis Ovalle,29,25,0,CD Olimpia,1988-09-07,1988,9,7,Panama,G,Men
+41,8,MF,Edgar Barcenas,24,29,0,Tapachula,1993-10-23,1993,10,23,Panama,G,Men
+41,12,GK,Jose Calderon,32,31,0,Chorrillo,1985-08-14,1985,8,14,Panama,G,Men
+41,14,MF,Valentin Pimentel,27,23,1,Plaza Amador,1991-05-30,1991,5,30,Panama,G,Men
+41,22,GK,Alex Rodriguez,27,6,0,San Francisco,1990-08-05,1990,8,5,Panama,G,Men
+41,18,FW,Luis Tejada,36,105,43,Sport Boys,1982-03-28,1982,3,28,Panama,G,Men
+41,1,GK,Jaime Penedo,36,131,0,Dinamo Bucuresti,1981-09-26,1981,9,26,Panama,G,Men
+41,15,DF,Erick Davis,27,38,0,Dunajska Streda,1991-03-31,1991,3,31,Panama,G,Men
+41,10,FW,Ismael Diaz,21,11,2,Deportivo Fabril,1997-05-12,1997,5,12,Panama,G,Men
+41,13,DF,Adolfo Machado,33,76,1,Houston Dynamo,1985-02-14,1985,2,14,Panama,G,Men
+41,2,DF,Michael Amir Murillo,22,22,2,New York Red Bulls,1996-02-11,1996,2,11,Panama,G,Men
+41,4,DF,Fidel Escobar,23,23,1,New York Red Bulls,1995-01-09,1995,1,9,Panama,G,Men
+41,3,DF,Harold Cummings,26,52,0,San Jose Earthquakes,1992-03-01,1992,3,1,Panama,G,Men
+41,20,MF,Anibal Godoy,28,88,1,San Jose Earthquakes,1990-02-10,1990,2,10,Panama,G,Men
+41,5,DF,Roman Torres,32,111,10,Seattle Sounders FC,1986-03-20,1986,3,20,Panama,G,Men
+42,11,DF,Dylan Bronn,22,5,0,Gent,1995-06-19,1995,6,19,Tunisia,G,Men
+42,12,DF,Ali Maaloul,28,46,0,Al Ahly,1990-01-01,1990,1,1,Tunisia,G,Men
+42,21,DF,Hamdi Nagguez,25,15,0,Zamalek,1992-10-28,1992,10,28,Tunisia,G,Men
+42,3,DF,Yohan Benalouane,31,4,0,Leicester City,1987-03-28,1987,3,28,Tunisia,G,Men
+42,22,GK,Mouez Hassen,23,3,0,Chateauroux,1995-03-05,1995,3,5,Tunisia,G,Men
+42,5,DF,Oussama Haddadi,26,9,0,Dijon,1992-01-28,1992,1,28,Tunisia,G,Men
+42,23,FW,Naim Sliti,25,17,3,Dijon,1992-07-27,1992,7,27,Tunisia,G,Men
+42,17,MF,Ellyes Skhiri,23,5,0,Montpellier,1995-05-10,1995,5,10,Tunisia,G,Men
+42,18,FW,Bassem Srarfi,20,5,0,Nice,1997-06-25,1997,6,25,Tunisia,G,Men
+42,10,FW,Wahbi Khazri,27,35,12,Rennes,1991-02-08,1991,2,8,Tunisia,G,Men
+42,7,FW,Saif-Eddine Khaoui,23,5,0,Troyes,1995-04-27,1995,4,27,Tunisia,G,Men
+42,14,MF,Mohamed Amine Ben Amor,26,26,1,Al Ahli,1992-05-03,1992,5,3,Tunisia,G,Men
+42,16,GK,Aymen Mathlouthi (captain),33,70,0,Al Batin,1984-09-14,1984,9,14,Tunisia,G,Men
+42,13,MF,Ferjani Sassi,26,39,3,Al Nassr,1992-03-18,1992,3,18,Tunisia,G,Men
+42,1,GK,Farouk Ben Mustapha,28,15,0,Al Shabab,1989-07-01,1989,7,1,Tunisia,G,Men
+42,8,FW,Fakhreddine Ben Youssef,26,39,5,Al-Ettifaq,1991-06-23,1991,6,23,Tunisia,G,Men
+42,15,FW,Ahmed Khalil,23,3,0,Club Africain,1994-12-21,1994,12,21,Tunisia,G,Men
+42,19,FW,Saber Khalifa,31,44,7,Club Africain,1986-10-14,1986,10,14,Tunisia,G,Men
+42,4,DF,Yassine Meriah,24,16,1,CS Sfaxien,1993-07-02,1993,7,2,Tunisia,G,Men
+42,9,MF,Anice Badri,27,7,2,Esperance de Tunis,1990-09-18,1990,9,18,Tunisia,G,Men
+42,20,FW,Ghailene Chaalali,24,6,1,Esperance de Tunis,1994-02-28,1994,2,28,Tunisia,G,Men
+42,6,DF,Rami Bedoui,28,8,0,Etoile du Sahel,1990-01-19,1990,1,19,Tunisia,G,Men
+42,2,DF,Syam Ben Youssef,29,42,1,Kasimpasa,1989-03-31,1989,3,31,Tunisia,G,Men
+43,5,MF,Wilmar Barrios,24,10,0,Boca Juniors,1993-10-16,1993,10,16,Colombia,H,Men
+43,20,MF,Juan Fernando Quintero,25,15,2,River Plate,1993-01-18,1993,1,18,Colombia,H,Men
+43,19,FW,Miguel Borja,25,7,2,Palmeiras,1993-01-26,1993,1,26,Colombia,H,Men
+43,8,MF,Abel Aguilar,33,70,7,Deportivo Cali,1985-01-06,1985,1,6,Colombia,H,Men
+43,12,GK,Camilo Vargas,29,5,0,Deportivo Cali,1989-03-09,1989,3,9,Colombia,H,Men
+43,22,GK,Jose Fernando Cuadrado,33,1,0,Once Caldas,1985-06-01,1985,6,1,Colombia,H,Men
+43,1,GK,David Ospina,29,86,0,Arsenal,1988-08-31,1988,8,31,Colombia,H,Men
+43,21,FW,Jose Izquierdo,25,5,1,Brighton & Hove Albion,1992-07-07,1992,7,7,Colombia,H,Men
+43,23,DF,Davinson Sanchez,22,9,0,Tottenham Hotspur,1996-06-12,1996,6,12,Colombia,H,Men
+43,9,FW,Radamel Falcao (captain),32,73,29,Monaco,1986-02-10,1986,2,10,Colombia,H,Men
+43,10,MF,James Rodriguez,26,63,21,Bayern Munich,1991-07-12,1991,7,12,Colombia,H,Men
+43,11,MF,Juan Cuadrado,30,70,7,Juventus,1988-05-26,1988,5,26,Colombia,H,Men
+43,2,DF,Cristian Zapata,31,55,2,Milan,1986-09-30,1986,9,30,Colombia,H,Men
+43,15,MF,Mateus Uribe,27,8,0,America,1991-03-21,1991,3,21,Colombia,H,Men
+43,3,DF,Oscar Murillo,30,13,0,Pachuca,1988-04-18,1988,4,18,Colombia,H,Men
+43,4,DF,Santiago Arias,26,41,0,PSV,1992-01-13,1992,1,13,Colombia,H,Men
+43,18,DF,Farid Diaz,34,13,0,Olimpia,1983-07-20,1983,7,20,Colombia,H,Men
+43,13,DF,Yerry Mina,23,12,3,Barcelona,1994-09-23,1994,9,23,Colombia,H,Men
+43,6,MF,Carlos Sanchez,32,85,0,Espanyol,1986-02-06,1986,2,6,Colombia,H,Men
+43,17,DF,Johan Mojica,25,4,1,Girona,1992-08-21,1992,8,21,Colombia,H,Men
+43,16,MF,Jefferson Lerma,23,5,0,Levante,1994-10-25,1994,10,25,Colombia,H,Men
+43,14,FW,Luis Muriel,27,18,2,Sevilla,1991-04-16,1991,4,16,Colombia,H,Men
+43,7,FW,Carlos Bacca,31,45,14,Villarreal,1986-09-08,1986,9,8,Colombia,H,Men
+44,14,FW,Lukasz Teodorczyk,27,17,4,Anderlecht,1991-06-03,1991,6,3,Poland,H,Men
+44,6,MF,Jacek Goralski,25,5,0,Ludogorets Razgrad,1992-09-21,1992,9,21,Poland,H,Men
+44,11,MF,Kamil Grosicki,30,57,12,Hull City,1988-06-08,1988,6,8,Poland,H,Men
+44,12,GK,Bartosz Bialkowski,30,1,0,Ipswich Town,1987-07-06,1987,7,6,Poland,H,Men
+44,5,DF,Jan Bednarek,22,3,0,Southampton,1996-04-12,1996,4,12,Poland,H,Men
+44,10,MF,Grzegorz Krychowiak,28,51,2,West Bromwich Albion,1990-01-29,1990,1,29,Poland,H,Men
+44,15,DF,Kamil Glik,30,57,4,Monaco,1988-02-03,1988,2,3,Poland,H,Men
+44,9,FW,Robert Lewandowski (captain),29,95,55,Bayern Munich,1988-08-21,1988,8,21,Poland,H,Men
+44,20,DF,Lukasz Piszczek,33,63,3,Borussia Dortmund,1985-06-03,1985,6,3,Poland,H,Men
+44,16,MF,Jakub Blaszczykowski,32,99,20,VfL Wolfsburg,1985-12-14,1985,12,14,Poland,H,Men
+44,1,GK,Wojciech Szczesny,28,35,0,Juventus,1990-04-18,1990,4,18,Poland,H,Men
+44,7,FW,Arkadiusz Milik,24,40,12,Napoli,1994-02-28,1994,2,28,Poland,H,Men
+44,19,MF,Piotr Zielinski,24,33,5,Napoli,1994-05-20,1994,5,20,Poland,H,Men
+44,8,MF,Karol Linetty,23,20,1,Sampdoria,1995-02-02,1995,2,2,Poland,H,Men
+44,18,DF,Bartosz Bereszynski,25,8,0,Sampdoria,1992-07-12,1992,7,12,Poland,H,Men
+44,23,FW,Dawid Kownacki,21,2,1,Sampdoria,1997-03-14,1997,3,14,Poland,H,Men
+44,4,DF,Thiago Cionek,32,19,0,SPAL,1986-04-21,1986,4,21,Poland,H,Men
+44,21,MF,Rafal Kurzawa,25,3,0,Gornik Zabrze,1993-01-29,1993,1,29,Poland,H,Men
+44,17,MF,Slawomir Peszko,33,43,2,Lechia Gdansk,1985-02-19,1985,2,19,Poland,H,Men
+44,2,DF,Michal Pazdan,30,33,0,Legia Warsaw,1987-09-21,1987,9,21,Poland,H,Men
+44,3,DF,Artur Jedrzejczyk,30,36,3,Legia Warsaw,1987-11-04,1987,11,4,Poland,H,Men
+44,13,MF,Maciej Rybus,28,51,2,Lokomotiv Moscow,1989-08-19,1989,8,19,Poland,H,Men
+44,22,GK,Lukasz Fabianski,33,45,0,Swansea City,1985-04-18,1985,4,18,Poland,H,Men
+45,4,DF,Kara Mbodji,28,52,5,Anderlecht,1989-11-22,1989,11,22,Senegal,H,Men
+45,22,DF,Moussa Wague,19,10,0,Eupen,1998-10-04,1998,10,4,Senegal,H,Men
+45,11,MF,Cheikh N'Doye,32,26,3,Birmingham City,1986-03-29,1986,3,29,Senegal,H,Men
+45,5,MF,Idrissa Gueye,28,61,1,Everton,1989-09-26,1989,9,26,Senegal,H,Men
+45,10,FW,Sadio Mane,26,53,14,Liverpool,1992-04-10,1992,4,10,Senegal,H,Men
+45,9,FW,Mame Biram Diouf,30,49,10,Stoke City,1987-12-16,1987,12,16,Senegal,H,Men
+45,17,MF,Badou Ndiaye,27,20,1,Stoke City,1990-10-27,1990,10,27,Senegal,H,Men
+45,8,MF,Cheikhou Kouyate (captain),28,48,2,West Ham United,1989-12-21,1989,12,21,Senegal,H,Men
+45,13,MF,Alfred N'Diaye,28,21,0,Wolverhampton Wanderers,1990-03-06,1990,3,6,Senegal,H,Men
+45,14,FW,Moussa Konate,25,28,10,Amiens,1993-04-03,1993,4,3,Senegal,H,Men
+45,12,DF,Youssouf Sabaly,25,5,0,Bordeaux,1993-03-05,1993,3,5,Senegal,H,Men
+45,2,DF,Adama Mbengue,24,6,0,Caen,1993-12-01,1993,12,1,Senegal,H,Men
+45,20,FW,Keita Balde,23,19,3,Monaco,1995-03-08,1995,3,8,Senegal,H,Men
+45,1,GK,Abdoulaye Diallo,26,17,0,Rennes,1992-03-30,1992,3,30,Senegal,H,Men
+45,15,FW,Diafra Sakho,28,12,3,Rennes,1989-12-24,1989,12,24,Senegal,H,Men
+45,18,FW,Ismaila Sarr,20,16,3,Rennes,1998-02-25,1998,2,25,Senegal,H,Men
+45,6,MF,Salif Sane,27,22,0,Hannover 96,1990-08-25,1990,8,25,Senegal,H,Men
+45,16,GK,Khadim N'Diaye,33,26,0,Horoya,1985-04-05,1985,4,5,Senegal,H,Men
+45,3,DF,Kalidou Koulibaly,26,26,0,Napoli,1991-06-20,1991,6,20,Senegal,H,Men
+45,23,GK,Alfred Gomis,24,1,0,SPAL,1993-09-05,1993,9,5,Senegal,H,Men
+45,19,FW,M'Baye Niang,23,7,0,Torino,1994-12-19,1994,12,19,Senegal,H,Men
+45,21,DF,Lamine Gassama,28,36,0,Alanyaspor,1989-10-20,1989,10,20,Senegal,H,Men
+45,7,FW,Moussa Sow,32,51,18,Bursaspor,1986-01-19,1986,1,19,Senegal,H,Men
